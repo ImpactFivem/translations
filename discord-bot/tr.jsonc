@@ -3,10 +3,10 @@
   "announcement_button_text": "Ücretsiz alın",
 
   // via {website}
-  "announcement_footer": "Bilgi Tabanı: {website}",
+  "announcement_footer": "Aracılığı ile: {website}",
 
   // This is a preview message
-  "announcement_footer_test": "Eğer iyi görünmüyor ise: @FreeStuff settings",
+  "announcement_footer_test": "Bu bir önizleme mesajıdır",
 
   // for a very long time
   "announcement_free_for_a_long_time": "çok uzun zaman için",
@@ -33,25 +33,25 @@
   "announcement_price_gamepass_until": "{until} tarihine kadar **Ücretsiz** olarak alın",
 
   // {prices}
-  "announcement_price_generic": "",
+  "announcement_price_generic": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_generic_until": "",
+  "announcement_price_generic_until": "{date} tarihine kadar {prices}",
 
   // {prices}
-  "announcement_price_keep": "",
+  "announcement_price_keep": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_keep_until": "~~{price}~~ - {date} tarihine kadar **Ücretsiz**",
+  "announcement_price_keep_until": "{date} tarihine kadar {prices}",
 
   // {prices}
-  "announcement_price_other": "",
+  "announcement_price_other": "{prices}",
 
   // {prices} until {date}
-  "announcement_price_other_until": "",
+  "announcement_price_other_until": "{date} tarihine kadar {prices}",
 
   // Claim for **Free**
-  "announcement_price_prime": "**Ücretsiz** olarak talep edin",
+  "announcement_price_prime": "**Ücretsiz** olarak alın",
 
   // Claim for **Free** until {date}
   "announcement_price_prime_until": "{date} tarihine kadar **Ücretsiz** talep edin",
@@ -69,67 +69,67 @@
   "announcement_theme9": "**{name}** ücretsiz!\n<{url}>",
 
   // {names}
-  "announcement_thread_name_gamepass_multiple_below": "",
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
 
   // {amount} new games for Game Pass!
-  "announcement_thread_name_gamepass_multiple_outside": "Game Pass için {amount} adet Yeni oyun!",
+  "announcement_thread_name_gamepass_multiple_outside": "Game Pass için {amount} adet yeni oyun!",
 
   // {name}
-  "announcement_thread_name_gamepass_single_below": "",
+  "announcement_thread_name_gamepass_single_below": "{name}",
 
   // New Game Pass content: {name}!
   "announcement_thread_name_gamepass_single_outside": "Yeni Game Pass içeriği: {name}!",
 
   // {names}
-  "announcement_thread_name_keep_multiple_below": "",
+  "announcement_thread_name_keep_multiple_below": "{names}",
 
   // {amount} games are free!
   "announcement_thread_name_keep_multiple_outside": "{amount} adet oyun ücretsiz!",
 
   // {name}
-  "announcement_thread_name_keep_single_below": "",
+  "announcement_thread_name_keep_single_below": "{name}",
 
   // {name} is free!
   "announcement_thread_name_keep_single_outside": "{name} Ücretsiz",
 
   // {names}
-  "announcement_thread_name_other_multiple_below": "",
+  "announcement_thread_name_other_multiple_below": "{names}",
 
   // {amount} games are free!
   "announcement_thread_name_other_multiple_outside": "{amount} adet oyun ücretsiz!",
 
   // {name}
-  "announcement_thread_name_other_single_below": "",
+  "announcement_thread_name_other_single_below": "{name}",
 
   // {name} is free!
   "announcement_thread_name_other_single_outside": "{name} ücretsiz!",
 
   // {names}
-  "announcement_thread_name_prime_multiple_below": "",
+  "announcement_thread_name_prime_multiple_below": "{names}",
 
   // {amount} new games for Prime!
   "announcement_thread_name_prime_multiple_outside": "Prime için {amount} adet Yeni oyun var!",
 
   // {name}
-  "announcement_thread_name_prime_single_below": "",
+  "announcement_thread_name_prime_single_below": "{name}",
 
   // New Prime loot: {name}!
   "announcement_thread_name_prime_single_outside": "Yeni Prime Ganimeti: {name}!",
 
   // {names}
-  "announcement_thread_name_timed_multiple_below": "",
+  "announcement_thread_name_timed_multiple_below": "{names}",
 
   // Free weekend for {amount} games!
   "announcement_thread_name_timed_multiple_outside": "Haftasonu {amount} adet oyun ücretsiz!",
 
   // {name}
-  "announcement_thread_name_timed_single_below": "",
+  "announcement_thread_name_timed_single_below": "{name}",
 
   // Free weekend for {name}!
   "announcement_thread_name_timed_single_outside": "{name} hafta sonu oynaması ücretsiz!",
 
   // {title} is free!
-  "announcement_title_statement": "{title} bedava!",
+  "announcement_title_statement": "{title} ücretsiz!",
 
   // An error occurred!
   "cmd_error_fatal_1": "Bir hata oluştu!",
@@ -153,7 +153,7 @@
   "cmd_free_ends_soon": "**Yakında bitiyor:**",
 
   // (Ends soon!)
-  "cmd_free_ends_soon2": "(Yakında sona erecek!)",
+  "cmd_free_ends_soon2": "(Yakında bitecek!)",
 
   // None :(
   "cmd_free_no_freebies": "Yok :(",
@@ -165,37 +165,37 @@
   "cmd_free_title": "Bu oyunlar şu anda ücretsizdir:",
 
   // Free on Epic Games Store
-  "cmd_free_title_epic": "",
+  "cmd_free_title_epic": "Epic Games Store'da Ücretsiz",
 
   // Free on Fab
-  "cmd_free_title_fab": "",
+  "cmd_free_title_fab": "Fab'da Ücretsiz",
 
   // Currently on Xbox Game Pass
-  "cmd_free_title_gamepass": "",
+  "cmd_free_title_gamepass": "Şu anlık Xbox Game Pass'te",
 
   // Free on GOG
-  "cmd_free_title_gog": "",
+  "cmd_free_title_gog": "GOG'da Ücretsiz",
 
   // Free on Google Play Store
-  "cmd_free_title_gplay": "",
+  "cmd_free_title_gplay": "Google Play Store'da Ücretsiz",
 
   // Free on Humble Bundle
-  "cmd_free_title_humble": "",
+  "cmd_free_title_humble": "Humble Bundle'da Ücretsiz",
 
   // Free on itch.io
-  "cmd_free_title_itch": "",
+  "cmd_free_title_itch": "itch.io'da Ücretsiz",
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "Şu anda ücretsiz (%100 indirimli)",
 
   // Free on Origin
-  "cmd_free_title_origin": "",
+  "cmd_free_title_origin": "Origin'de Ücretsiz",
 
   // Free on other stores
-  "cmd_free_title_other": "Diğer ücretsiz olanlar (%100 indirimli)",
+  "cmd_free_title_other": "Diğer mağazalarda Ücretsiz",
 
   // Currently on Prime Gaming
-  "cmd_free_title_prime": "",
+  "cmd_free_title_prime": "Şu anlık Prime Gaming'de",
 
   // Prime Gaming: Games
   "cmd_free_title_primegames": "Prime Gaming: Oyunları",
@@ -204,22 +204,22 @@
   "cmd_free_title_primeloot": "Prime Gaming: Ganimeti",
 
   // Free on Steam
-  "cmd_free_title_steam": "",
+  "cmd_free_title_steam": "Steam'de Ücretsiz",
 
   // Currently free to play
   "cmd_free_title_timed": "Şu anda oynaması ücretsiz",
 
   // Free on Ubisoft
-  "cmd_free_title_ubi": "",
+  "cmd_free_title_ubi": "Ubisoft'ta Ücretsiz",
 
   // until
   "cmd_free_until": "kadar",
 
   // FreeStuff
-  "cmd_info_1": "FreeStuff Bot",
+  "cmd_info_1": "FreeStuff",
 
   // Discord Bot made by some [really cool people]({amazingPeople})\n\n* [About / Website]({website})\n* [Add it to your server!]({inviteLink})\n* [Report a bug or get in contact]({discordInvite})
-  "cmd_info_2": "FreeStuff Bot [bazı muhteşem insanlar]({amazingPeople}) tarafından :heart: ile yapıldı\n\n[Hakkında / Website]({website})\n\n[Sunucunuza ekleyin!]({inviteLink}) :coffee:\n\n[Bir hata bildirin veya iletişime geçin]({discordInvite})",
+  "cmd_info_2": "FreeStuff Bot [bazı muhteşem insanlar]({amazingPeople}) tarafından yapıldı\n\n[Hakkında / Website]({website})\n\n[Sunucunuza ekleyin!]({inviteLink}) :coffee:\n\n[Bir hata bildirin veya iletişime geçin]({discordInvite})",
 
   // :eyes:
   "cmd_invite_1": ":eyes:",
@@ -237,22 +237,22 @@
   "cmd_resend_all_filtered_out_1": "İşte bu bir şaşırtmacaydı!",
 
   // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
-  "cmd_resend_all_filtered_out_2": "Ücretsiz oyunlar var, ancak filtre ayarlarınız bunlardan tek birinin bile duyurulmasına izin vermiyor! Bunu kastetmediyseniz, filtre ayarlarınızı tekrar kontrol edin.",
+  "cmd_resend_all_filtered_out_2": "Ücretsiz oyunlar var, ancak filtre ayarlarınız bunlardan birinin bile duyurulmasına izin vermiyor! Bunu kastetmediyseniz, filtre ayarlarınızı tekrar kontrol edin.",
 
   // The webhook in {channel} is broken.
-  "cmd_resend_invalid_webhook_1": "{channel}'daki webhook bozuk.",
+  "cmd_resend_invalid_webhook_1": "{channel} kanalındaki webhook bozuk.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_resend_invalid_webhook_2": "Kulağa korkutucu geliyor. Bunu düzeltmek için kanalı farklı bir kanalla değiştirmeyi ve ardından {channel}'a geri dönmeyi deneyin. Bu hata devam ederse lütfen destek ekibiyle iletişime geçin!",
+  "cmd_resend_invalid_webhook_2": "Kulağa korkutucu geliyor. Bunu düzeltmek için kanalı farklı bir kanalla değiştirmeyi ve ardından {channel} kanalına geri dönmeyi deneyin. Bu hata devam ederse lütfen destek ekibiyle iletişime geçin!",
 
   // Whoops!
-  "cmd_resend_nosend_1": "",
+  "cmd_resend_nosend_1": "Haydaa!",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_resend_nosend_2": "",
+  "cmd_resend_nosend_2": "Görünüşe göre {channel} kanalında \"mesaj gönderme\" yetkim yok!",
 
   // Uh oh!
-  "cmd_resend_nothing_free_1": "Uh oh!",
+  "cmd_resend_nothing_free_1": "Tüh!",
 
   // There's not a single game from this category for free right now... How could that have happened :thinking:
   "cmd_resend_nothing_free_2": "Şu anda %100 indirimli tek bir oyun yok... Bu nasıl olabilir :thinking:",
@@ -270,10 +270,10 @@
   "cmd_test_announcement_header": "Oyun adı burada",
 
   // The webhook in {channel} is broken.
-  "cmd_test_invalid_webhook_1": "{channel}'daki webhook bozuk.",
+  "cmd_test_invalid_webhook_1": "{channel} kanalındaki webhook bozuk.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_test_invalid_webhook_2": "Kulağa korkutucu geliyor. Bunu düzeltmek için kanalı farklı bir kanalla değiştirmeyi ve ardından {channel}'a geri dönmeyi deneyin. Bu hata devam ederse lütfen destek ekibiyle iletişime geçin!",
+  "cmd_test_invalid_webhook_2": "Kulağa korkutucu geliyor. Bunu düzeltmek için kanalı farklı bir kanalla değiştirmeyi ve ardından {channel} kanalına geri dönmeyi deneyin. Bu hata devam ederse lütfen destek ekibiyle iletişime geçin!",
 
   // :x:
   "cmd_test_nochannel_1": ":x:",
@@ -288,16 +288,16 @@
   "cmd_test_noembeds_2": "Kullandığınız tema mesajın daha güzel görünmesi için embed kullanıyor... şimdi mesele şu ki {channel} kanalına embed gönderme yetkim yok! ya bana `Bağlantı yerleştir` izni vermeli ya da embed kullanmayan farklı bir tema seçmelisin!",
 
   // Whoops!
-  "cmd_test_nosee_1": "Hoppala!",
+  "cmd_test_nosee_1": "Haydaa!",
 
   // Looks like I don't have the permission to see the channel {channel}!
   "cmd_test_nosee_2": "Görünüşe göre {channel} kanalını görme yetkim yok!",
 
   // Whoops!
-  "cmd_test_nosend_1": "Hoppala!",
+  "cmd_test_nosend_1": "Haydaa!",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_test_nosend_2": "Görünüşe göre {channel} kanalına \"mesaj gönder\" yetkim yok!",
+  "cmd_test_nosend_2": "Görünüşe göre {channel} kanalında \"mesaj gönderme\" yetkim yok!",
 
   // Aaaaaand there it goes!
   "cmd_test_success_1": "Veeeeeeee işte gidiyor!",
@@ -324,7 +324,7 @@
   "color_mint": "Nane",
 
   // No color
-  "color_none": "",
+  "color_none": "Renk yok",
 
   // Pink
   "color_pink": "Pembe",
@@ -363,10 +363,10 @@
   "currency_sign_dollar_position": "after",
 
   // before
-  "currency_sign_euro_position": "before",
+  "currency_sign_euro_position": "after",
 
   // before
-  "currency_sign_position": "before",
+  "currency_sign_position": "after",
 
   // Dollar (USD)
   "currency_usd": "Amerikan Doları (USD)",
@@ -375,52 +375,52 @@
   "date_format": "tr",
 
   // usd
-  "default_currency": "",
+  "default_currency": "try",
 
   // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
-  "donation_notice": "Bu bot size biraz para kazandırdı mı? Canlı tutmak için [bağış yapmayı]({url}) düşünün. Teşekkürler!",
+  "donation_notice": "Bu bot size biraz para tasarrufu yaptırdı mı? Destek olmak için [bağış yapmayı]({url}) düşünün. Teşekkürler!",
 
   // Claim All
   "expressbutton_label": "Hepsini al",
 
   // {next}
-  "fluid_list_delimiter_first": "",
+  "fluid_list_delimiter_first": "{next}",
 
   // {prev}, and {next}
-  "fluid_list_delimiter_last": "",
+  "fluid_list_delimiter_last": "{prev}, ve {next}",
 
   // {prev}, {next}
-  "fluid_list_delimiter_middle": "",
+  "fluid_list_delimiter_middle": "{prev}, {next}",
 
   // {prev} and {next}
-  "fluid_list_delimiter_only": "",
+  "fluid_list_delimiter_only": "{prev} ve {next}",
 
   // ONLY ON APRIL FIRST
-  "free_recommendation_april_fools": "",
+  "free_recommendation_april_fools": "SADECE 1 NİSAN'DA",
 
   // Free on {store}!
-  "free_recommendation_by_store": "",
+  "free_recommendation_by_store": "{store} mağazasında ücretsiz!",
 
   // Interested in {tag}?
-  "free_recommendation_by_tag": "",
+  "free_recommendation_by_tag": "{tag} ile ilgileniyor musunuz?",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
-  "free_recommendation_expires_hours": "",
+  "free_recommendation_expires_hours": "{hours, plural, =1 {1 saat} other {# saat} } içinde sona erecek!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
-  "free_recommendation_expires_minutes": "",
+  "free_recommendation_expires_minutes": "{minutes, plural, =1 {1 dakika} other {# dakika} } içinde sona erecek!",
 
   // Over 95% positive reviews:
-  "free_recommendation_extremely_positive": "",
+  "free_recommendation_extremely_positive": "%95 üzerinde olumlu incelemeler",
 
   // Check this out!
-  "free_recommendation_generic_1": "",
+  "free_recommendation_generic_1": "Buna bir göz at!",
 
   // You might enjoy:
-  "free_recommendation_generic_2": "",
+  "free_recommendation_generic_2": "Keyif alabilirsiniz:",
 
   // In case you missed it...
-  "free_recommendation_generic_3": "",
+  "free_recommendation_generic_3": "Kaçırdıysanız...",
 
   // Well received:
   "free_recommendation_positive": "",
@@ -471,16 +471,16 @@
   "help_main_1": "Yardım yolda!",
 
   // The FreeStuff bot keeps you up to date with free games!\n* Use {commandFree} to get a list of free games\n* Use {commandSettings} to configure the bot and to subscribe to free games notifications
-  "help_main_2": "FreeStuff botu sizi ücretsiz oyunlarla güncel tutar!\n\nÜcretsiz oyunları listelemek için /free komutunu kullan\n\nBotu yapılandırmak ve ücretsiz oyunlardan haberdar olmak için /settings komutunu kullan",
+  "help_main_2": "FreeStuff botu sizi ücretsiz oyunlarla güncel tutar!\n\nÜcretsiz oyunları listelemek için {commandFree} komutunu kullan\n\nBotu yapılandırmak ve ücretsiz oyunlardan haberdar olmak için {commandSettings} komutunu kullan",
 
   // Nuh uhhh! Only {author} can press these buttons. If you want to press them too, you need to run {command} yourself!
-  "interaction_not_owned": "",
+  "interaction_not_owned": "ıııhhh! Sadece {author} bu butona basabilir. Eğer sende butona basmak istiyorsan, {command} komutunu kullanmalısın!",
 
   // You are not {owner}!
   "interaction_not_owned_1": "{owner} değilsin!",
 
   // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
-  "interaction_not_owned_2": "Bu widget sizin değil\nKendi widget'ınızı almak için **{command}** kullanın",
+  "interaction_not_owned_2": "Bu widget ile etkileşime giremezsin çünkü sen oluşturmadın.\nKendi widget'ınızı oluşturmak için **{command}** komutunu kullanın.",
 
   // Sorry but I cannot let you do this!
   "interaction_not_permitted_1": "Üzgünüm ama bunu yapmana izin veremem!",
@@ -489,19 +489,19 @@
   "interaction_not_permitted_2_admin": "Bunu yalnızca bu sunucunun bir yöneticisi yapabilir. Bu sunucunun yöneticisi değilsiniz.",
 
   // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
-  "interaction_not_permitted_2_bot_admin": "Bu düğme çok özel insanlar için ayrılmıştır... \nTabii ki sen de özelsin! *Ama yeterince değil*",
+  "interaction_not_permitted_2_bot_admin": "Bu düğme çok özel insanlar için ayrılmıştır...\nTabii ki sen de özelsin! *Ama yeterince değil*",
 
   // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
   "interaction_not_permitted_2_generic": "Sana nedenini söyleyemem ama birileri bir yerlerde bunu yapmanı istemiyor... \nÇok düşmanın var mı?",
 
   // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
-  "interaction_not_permitted_2_manage_messages": "kendinize **Mesajları Yönet** izni almanız gerek!",
+  "interaction_not_permitted_2_manage_messages": "Sana izin vermeyi çok isterim! Tek yapmanız gereken kendinize **Mesajları Yönet** yetkisi almak!",
 
   // I was asked to prevent anyone without the **Manage Server** permission from going any further!
-  "interaction_not_permitted_2_manage_server": "**Sunucuyu Yönet** izni olmayan daha ileri gidemez!",
+  "interaction_not_permitted_2_manage_server": "**Sunucuyu Yönet** yetkisi olmayan kimsenin daha ileri gitmesini engellemem istendi!",
 
   // Hooooold up!
-  "interaction_server_only_1": "Kalk!",
+  "interaction_server_only_1": "Orada bir dur bakalım!",
 
   // You cannot run this command in direct messages! Please try using it in a Discord Server.
   "interaction_server_only_2": "Bu komutu özel mesajlarda çalıştıramazsın! Lütfen bir Discord sunucusunda kullanmayı deneyin.",
@@ -516,10 +516,10 @@
   "lang_name_en": "turkish",
 
   // Stop!
-  "missing_setting_permissions_1": "",
+  "missing_setting_permissions_1": "Dur!",
 
   // You are not allowed to change settings for this server!\nGet someone with `Manage Server` or `Administrator` permissions and we can talk.
-  "missing_setting_permissions_2": "",
+  "missing_setting_permissions_2": "Bu sunucu için ayarları değiştirmenize izin verilmiyor!\n",
 
   // Silence
   "mysterious_modal_no_response_1": "Sessizlik...",

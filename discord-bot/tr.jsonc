@@ -42,7 +42,7 @@
   "announcement_price_keep": "",
 
   // {prices} until {date}
-  "announcement_price_keep_until": "~~{price}~~ - {date} tarihine kadar **Ücretsiz**",
+  "announcement_price_keep_until": "~~{prices}~~ - {date} tarihine kadar **Ücretsiz**",
 
   // {prices}
   "announcement_price_other": "",

@@ -1,30 +1,30 @@
 {
   // Get it for free
-  "announcement_button_text": "Some themes don't have the big \"GET\" button. Then this text will be there instead",
+  "announcement_button_text": "Krijg het gratis",
 
   // via {website}
-  "announcement_footer": "That's on the bottom of each announcement",
+  "announcement_footer": "via {website}",
 
   // This is a preview message
-  "announcement_footer_test": "",
+  "announcement_footer_test": "Dit is een voorbeeldbericht",
 
   // for a very long time
-  "announcement_free_for_a_long_time": "",
+  "announcement_free_for_a_long_time": "voor een hele lange tijd",
 
   // for a week
-  "announcement_free_for_a_week": "",
+  "announcement_free_for_a_week": "gedurende een week",
 
   // until {date}
-  "announcement_free_until_date": "",
+  "announcement_free_until_date": "tot en met {date}",
 
   // until {day}
-  "announcement_free_until_day": "",
+  "announcement_free_until_day": "tot en met {day}",
 
   // until {day} next week
-  "announcement_free_until_day_next_week": "",
+  "announcement_free_until_day_next_week": "tot en met volgende week {day}",
 
   // Free Game!
-  "announcement_header": "",
+  "announcement_header": "Gratis spel!",
 
   // Claim for **Free**
   "announcement_price_gamepass": "",
@@ -63,106 +63,106 @@
   "announcement_price_timed_until": "",
 
   // Free
-  "announcement_pricetag_free": "Game price: not 19.99 but FREE!",
+  "announcement_pricetag_free": "Gratis",
 
   // **{name}** is free!\n<{url}>
-  "announcement_theme9": "Don't forget the <>!",
+  "announcement_theme9": "**{name}** is gratis!\\n<{url}>",
 
   // {names}
-  "announcement_thread_name_gamepass_multiple_below": "",
+  "announcement_thread_name_gamepass_multiple_below": "{names}",
 
   // {amount} new games for Game Pass!
-  "announcement_thread_name_gamepass_multiple_outside": "",
+  "announcement_thread_name_gamepass_multiple_outside": "{amount} nieuwe games voor Game Pass!",
 
   // {name}
-  "announcement_thread_name_gamepass_single_below": "",
+  "announcement_thread_name_gamepass_single_below": "{name}",
 
   // New Game Pass content: {name}!
-  "announcement_thread_name_gamepass_single_outside": "",
+  "announcement_thread_name_gamepass_single_outside": "Nieuwe Game Pass content: {name}!",
 
   // {names}
-  "announcement_thread_name_keep_multiple_below": "",
+  "announcement_thread_name_keep_multiple_below": "{names}",
 
   // {amount} games are free!
-  "announcement_thread_name_keep_multiple_outside": "",
+  "announcement_thread_name_keep_multiple_outside": "{amount} games zijn gratis!",
 
   // {name}
-  "announcement_thread_name_keep_single_below": "",
+  "announcement_thread_name_keep_single_below": "{name}",
 
   // {name} is free!
-  "announcement_thread_name_keep_single_outside": "",
+  "announcement_thread_name_keep_single_outside": "{name} is gratis!",
 
   // {names}
-  "announcement_thread_name_other_multiple_below": "",
+  "announcement_thread_name_other_multiple_below": "{names}",
 
   // {amount} games are free!
-  "announcement_thread_name_other_multiple_outside": "",
+  "announcement_thread_name_other_multiple_outside": "{amount} games zijn gratis!",
 
   // {name}
-  "announcement_thread_name_other_single_below": "",
+  "announcement_thread_name_other_single_below": "{name}",
 
   // {name} is free!
-  "announcement_thread_name_other_single_outside": "",
+  "announcement_thread_name_other_single_outside": "{name} is gratis!",
 
   // {names}
-  "announcement_thread_name_prime_multiple_below": "",
+  "announcement_thread_name_prime_multiple_below": "{names}",
 
   // {amount} new games for Prime!
-  "announcement_thread_name_prime_multiple_outside": "",
+  "announcement_thread_name_prime_multiple_outside": "{amount} nieuwe games voor Prime!",
 
   // {name}
-  "announcement_thread_name_prime_single_below": "",
+  "announcement_thread_name_prime_single_below": "{name}",
 
   // New Prime loot: {name}!
-  "announcement_thread_name_prime_single_outside": "",
+  "announcement_thread_name_prime_single_outside": "Nieuwe Prime loot: {name}!",
 
   // {names}
-  "announcement_thread_name_timed_multiple_below": "",
+  "announcement_thread_name_timed_multiple_below": "{names}",
 
   // Free weekend for {amount} games!
-  "announcement_thread_name_timed_multiple_outside": "",
+  "announcement_thread_name_timed_multiple_outside": "Gratis weekend voor {amount} games!",
 
   // {name}
-  "announcement_thread_name_timed_single_below": "",
+  "announcement_thread_name_timed_single_below": "{name}",
 
   // Free weekend for {name}!
-  "announcement_thread_name_timed_single_outside": "",
+  "announcement_thread_name_timed_single_outside": "Gratis weekend voor {name}!",
 
   // {title} is free!
   "announcement_title_statement": "",
 
   // An error occurred!
-  "cmd_error_fatal_1": "",
+  "cmd_error_fatal_1": "Er is een fout opgetreden!",
 
   // We're trying to fix this issue as soon as possible!
-  "cmd_error_fatal_2": "",
+  "cmd_error_fatal_2": "We proberen dit probleem zo snel mogelijk op te lossen!",
 
   // A wild error occurred!
-  "cmd_error_fixable_1": "",
+  "cmd_error_fixable_1": "Er is een wilde fout opgetreden!",
 
   // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
-  "cmd_error_fixable_2": "",
+  "cmd_error_fixable_2": "Wil je dat nog eens proberen? Als je dit bericht meermaals ziet, wacht dan wat langer of [zoek contact met ons support team]({discordInvite}), dankjewel!",
 
   // An error occurred!
-  "cmd_error_readd_1": "",
+  "cmd_error_readd_1": "Er is een fout opgetreden!",
 
   // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
-  "cmd_error_readd_2": "",
+  "cmd_error_readd_2": "Probeer de bot van uw server te verwijderen en weer toe te voegen. Als dit niet helpt, [meld u dan aan bij de ondersteuningsserver]({discordInvite}).",
 
   // **Ends soon:**
-  "cmd_free_ends_soon": "",
+  "cmd_free_ends_soon": "**Eindigt binnenkort:**",
 
   // (Ends soon!)
-  "cmd_free_ends_soon2": "",
+  "cmd_free_ends_soon2": "(Eindigt binnenkort!)",
 
   // None :(
-  "cmd_free_no_freebies": "",
+  "cmd_free_no_freebies": "Geen :(",
 
   // Nothing free right now :(
-  "cmd_free_no_freebies2": "",
+  "cmd_free_no_freebies2": "Niets is gratis op het moment :(",
 
   // These games are currently free:
-  "cmd_free_title": "",
+  "cmd_free_title": "Deze spellen zijn momenteel gratis:",
 
   // Free on Epic Games Store
   "cmd_free_title_epic": "",
@@ -186,13 +186,13 @@
   "cmd_free_title_itch": "",
 
   // Currently free to keep (100% off)
-  "cmd_free_title_keep": "",
+  "cmd_free_title_keep": "Momenteel gratis te krijgen (100% korting)",
 
   // Free on Origin
   "cmd_free_title_origin": "",
 
   // Free on other stores
-  "cmd_free_title_other": "",
+  "cmd_free_title_other": "Andere gratis geschenken (100% korting)",
 
   // Currently on Prime Gaming
   "cmd_free_title_prime": "",
@@ -207,43 +207,43 @@
   "cmd_free_title_steam": "",
 
   // Currently free to play
-  "cmd_free_title_timed": "",
+  "cmd_free_title_timed": "Momenteel gratis te spelen",
 
   // Free on Ubisoft
   "cmd_free_title_ubi": "",
 
   // until
-  "cmd_free_until": "",
+  "cmd_free_until": "tot en met",
 
   // FreeStuff
-  "cmd_info_1": "",
+  "cmd_info_1": "FreeStuff Bot",
 
   // Discord Bot made by some [really cool people]({amazingPeople})\n\n* [About / Website]({website})\n* [Add it to your server!]({inviteLink})\n* [Report a bug or get in contact]({discordInvite})
-  "cmd_info_2": "",
+  "cmd_info_2": "FreeStuff Bot gemaakt met :heart: door [sommige fantastische mensen]({amazingPeople})\n[Over / Website]({website})\n[Voeg het toe aan je server!]({inviteLink})\n[Meld een bug of neem contact op]({discordInvite})",
 
   // :eyes:
-  "cmd_invite_1": "",
+  "cmd_invite_1": ":eyes:",
 
   // [Click here to add me to your server!]({inviteLink})
-  "cmd_invite_2": "",
+  "cmd_invite_2": "[Klik hier om me aan jouw server toe te voegen!]({inviteLink})",
 
   // You're going too fast!
-  "cmd_on_cooldown_1": "",
+  "cmd_on_cooldown_1": "Je gaat te snel!",
 
   // This command can only be used every {time} seconds. Please wait a bit!
-  "cmd_on_cooldown_2": "",
+  "cmd_on_cooldown_2": "Deze opdracht kan alleen elke {time} seconden worden gebruikt. Wacht alstublieft even!",
 
   // Now that's a twist!
-  "cmd_resend_all_filtered_out_1": "",
+  "cmd_resend_all_filtered_out_1": "Dat is pas een wending!",
 
   // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
-  "cmd_resend_all_filtered_out_2": "",
+  "cmd_resend_all_filtered_out_2": "Er zijn gratis games, maar je filterinstellingen staan niet toe dat er één wordt aangekondigd! Als je dit niet van plan was, controleer dan nogmaals je filterinstellingen.",
 
   // The webhook in {channel} is broken.
-  "cmd_resend_invalid_webhook_1": "",
+  "cmd_resend_invalid_webhook_1": "De webhook in {channel} is verbroken.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_resend_invalid_webhook_2": "",
+  "cmd_resend_invalid_webhook_2": "Dat klinkt eng. Om dit op te lossen, probeert u het kanaal te wijzigen in een ander en vervolgens terug naar {channel}. Neem contact op met de ondersteuning als deze fout zich blijft voordoen!",
 
   // Whoops!
   "cmd_resend_nosend_1": "",
@@ -252,133 +252,100 @@
   "cmd_resend_nosend_2": "",
 
   // Uh oh!
-  "cmd_resend_nothing_free_1": "",
+  "cmd_resend_nothing_free_1": "Uh oh!",
 
   // There's not a single game from this category for free right now... How could that have happened :thinking:
-  "cmd_resend_nothing_free_2": "",
+  "cmd_resend_nothing_free_2": "Er is momenteel geen enkel spel met 100% korting... Hoe kon dat gebeuren :thinking:",
 
   // Aaaaaand there it goes!
-  "cmd_resend_success_1": "",
+  "cmd_resend_success_1": "Ennnnn... daar gaat ie!",
 
   // Check out {channel}!
-  "cmd_resend_success_2": "",
+  "cmd_resend_success_2": "Bekijk {channel}!",
 
   // That is an example game. And this here is the example description of said example game. I hope you have a nice day :)
-  "cmd_test_announcement_description": "",
+  "cmd_test_announcement_description": "Dat is een voorbeeldspel. En dit hier is de voorbeeldbeschrijving van het genoemde voorbeeldspel. Ik hoop dat je een fijne dag hebt :)",
 
   // Game name here
-  "cmd_test_announcement_header": "",
+  "cmd_test_announcement_header": "Spelnaam hier",
 
   // The webhook in {channel} is broken.
-  "cmd_test_invalid_webhook_1": "",
+  "cmd_test_invalid_webhook_1": "De webhook in {channel} is verbroken.",
 
   // That sounds scary. In order to fix this try to change the channel to some different one and then back to {channel}. If this error persists please contact support!
-  "cmd_test_invalid_webhook_2": "",
+  "cmd_test_invalid_webhook_2": "Dat klinkt eng. Om dit op te lossen, probeert u het kanaal te wijzigen in een ander en vervolgens terug naar {channel}. Neem contact op met de ondersteuning als deze fout zich blijft voordoen!",
 
   // :x:
-  "cmd_test_nochannel_1": "",
+  "cmd_test_nochannel_1": ":x:",
 
   // I don't know where to post the announcements!\nGo to /settings → Set Channel
-  "cmd_test_nochannel_2": "",
+  "cmd_test_nochannel_2": "Ik weet niet waar ik de aankondigingen moet plaatsen!\nGa naar /instellingen → Kanaal instellen",
 
   // Oh well...
-  "cmd_test_noembeds_1": "",
+  "cmd_test_noembeds_1": "Oh jee...",
 
   // The theme you're using uses embeds to make the message look nicer... now the thing is, I don't have the permission to send embeds in {channel}! Either give me the permission `Embed Links` or choose a different theme that doesn't use embeds!
-  "cmd_test_noembeds_2": "",
+  "cmd_test_noembeds_2": "Het thema dat je gebruikt past embeds toe om alles mooier te maken. Echter heb ik niet de juiste rechten om embeds in {channel} te versturen! Ik heb óf de `Embed Links` rechten nodig, óf je moet een thema selecteren dat geen embeds gebruikt!",
 
   // Whoops!
-  "cmd_test_nosee_1": "",
+  "cmd_test_nosee_1": "Oepsie!",
 
   // Looks like I don't have the permission to see the channel {channel}!
-  "cmd_test_nosee_2": "",
+  "cmd_test_nosee_2": "Het lijkt erop dat ik geen toestemming heb om het kanaal {channel} te zien!",
 
   // Whoops!
-  "cmd_test_nosend_1": "",
+  "cmd_test_nosend_1": "Oeps!",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_test_nosend_2": "",
+  "cmd_test_nosend_2": "Het lijkt erop dat ik geen toestemming heb om berichten te verzenden in {channel}!",
 
   // Aaaaaand there it goes!
-  "cmd_test_success_1": "",
+  "cmd_test_success_1": "Eeeeen daar gaat het!",
 
   // Check out {channel}!
-  "cmd_test_success_2": "",
+  "cmd_test_success_2": "Bekijk nu {channel}!",
 
   // Enjoying the free games?
-  "cmd_vote_1": "",
+  "cmd_vote_1": "Geniet je van de gratis spellen?",
 
   // [Click here to vote for me on top.gg]({topGGLink})\n\nAlternatively the FreeStuff Bot is also listed on the following websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Voting for the bot increases it's visibility and helps others discover free games too! Thank you for every vote!*
-  "cmd_vote_2": "",
+  "cmd_vote_2": "[Klik hier om me te upvoten op top.gg!]({topGGLink})\n\nDaarnaast staat deze bot ook op de volgende websites:\n- [Discord Bot List]({dblLink})\n- [Discord Labs]({dlabsLink})\n\n*Stemmen zorgt er voor dat meer mensen de bot kunnen vinden en daarmee dat nog meer mensjes gratis games kunnen vinden!*",
 
   // Black
-  "color_black": "",
+  "color_black": "Zwart",
 
   // Blue
-  "color_blue": "",
+  "color_blue": "Blauw",
 
   // Green
-  "color_green": "",
+  "color_green": "Groen",
 
   // Mint
-  "color_mint": "",
+  "color_mint": "Mint",
 
   // No color
   "color_none": "",
 
   // Pink
-  "color_pink": "",
+  "color_pink": "Roze",
 
   // Red
-  "color_red": "",
+  "color_red": "Rood",
 
   // White
-  "color_white": "",
+  "color_white": "Wit",
 
   // Yellow
-  "color_yellow": "",
-
-  // Lev (BGN)
-  "currency_bgn": "",
-
-  // Real (BRL)
-  "currency_brl": "",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "",
-
-  // Euro (EUR)
-  "currency_euro": "",
-
-  // Pounds (GBP)
-  "currency_gbp": "",
-
-  // Forint (HUF)
-  "currency_huf": "",
-
-  // Złoty (PLN)
-  "currency_pln": "",
-
-  // before
-  "currency_sign_dollar_position": "5$ or $5? Choose either 'before' or 'after'. In english. That's just info for the bot.",
-
-  // before
-  "currency_sign_euro_position": "5€ or €5? Choose either 'before' or 'after'. In english. That's just info for the bot.",
-
-  // before
-  "currency_sign_position": "Generic currency sign position (yes, we'll be supporting more currencies in the future!!!)",
-
-  // Dollar (USD)
-  "currency_usd": "",
+  "color_yellow": "Geel",
 
   // en-US
-  "date_format": "Don't change this one.",
+  "date_format": "nl-NL",
 
   // usd
-  "default_currency": "",
+  "default_currency": "Amerikaanse Dollar / USD",
 
   // Did this bot save you some money? Consider [donating]({url}) to keep it alive. Thanks!
-  "donation_notice": "",
+  "donation_notice": "Heeft deze bot je wat geld bespaard? Overweeg [doneren]({url}) om het levend te houden. Bedankt!",
 
   // Claim All
   "expressbutton_label": "",
@@ -432,46 +399,46 @@
   "free_recommendation_very_positive": "",
 
   // Third Party Provider
-  "game_meta_flag_thirdparty": "When you need to go to a different website than the proper store in order to claim a key or smth. Similar to how humble bundle does it.",
+  "game_meta_flag_thirdparty": "Verstrekt door derde partij",
 
   // Low Quality
-  "game_meta_flag_trash": "When a game has bad ratings",
+  "game_meta_flag_trash": "Lage kwaliteit",
 
   // Back
-  "generic_back": "max 25 characters",
+  "generic_back": "",
 
   // Cancel
-  "generic_cancel": "max 25 characters",
+  "generic_cancel": "",
 
   // Cancelled
-  "generic_cancelled": "max 25 characters",
+  "generic_cancelled": "Geannuleerd",
 
   // Close
-  "generic_close": "",
+  "generic_close": "Sluiten",
 
   // Continue
-  "generic_continue": "max 25 characters",
+  "generic_continue": "",
 
   // Delete
-  "generic_delete": "max 25 characters",
+  "generic_delete": "",
 
   // Need help?
-  "generic_help": "max 25 characters",
+  "generic_help": "",
 
   // Next
-  "generic_next": "max 25 characters",
+  "generic_next": "",
 
   // Ok
-  "generic_ok": "max 25 characters",
+  "generic_ok": "",
 
   // Okay
-  "generic_okay": "max 25 characters",
+  "generic_okay": "",
 
   // Help is on the way!
-  "help_main_1": "",
+  "help_main_1": "Hulp is onderweg!",
 
   // The FreeStuff bot keeps you up to date with free games!\n* Use {commandFree} to get a list of free games\n* Use {commandSettings} to configure the bot and to subscribe to free games notifications
-  "help_main_2": "",
+  "help_main_2": "De FreeStuff-bot houdt je op de hoogte van gratis games!\n\nGebruik /free om een lijst met gratis spellen te krijgen\n\nGebruik /settings om de bot te configureren en je te abonneren op gratis games-meldingen",
 
   // Nuh uhhh! Only {author} can press these buttons. If you want to press them too, you need to run {command} yourself!
   "interaction_not_owned": "",
@@ -480,40 +447,40 @@
   "interaction_not_owned_1": "",
 
   // Thus you cannot interact with this widget because you did not create it.\nRun **{command}** to get your own widget.
-  "interaction_not_owned_2": "",
+  "interaction_not_owned_2": "U kunt dus niet communiceren met deze widget omdat u deze niet hebt gemaakt.\nVoer **{command}** uit om je eigen widget te krijgen.",
 
   // Sorry but I cannot let you do this!
-  "interaction_not_permitted_1": "",
+  "interaction_not_permitted_1": "Sorry maar ik kan je dit niet laten doen!",
 
   // Only an admin of this server can do this. You are not an admin of this server.
-  "interaction_not_permitted_2_admin": "",
+  "interaction_not_permitted_2_admin": "Alleen een beheerder van deze server kan dit doen. U bent geen beheerder van deze server.",
 
   // This button is reserved for some very special people...\nOf course you are special too! Yes! *But not special enough*
-  "interaction_not_permitted_2_bot_admin": "",
+  "interaction_not_permitted_2_bot_admin": "Deze knop is gereserveerd voor enkele zeer speciale mensen...\nNatuurlijk ben jij ook bijzonder! Ja! *Maar niet bijzonder genoeg*",
 
   // I also cannot tell you why. But someone somewhere doesn't want you to do this...\nDo you have many enemies?
-  "interaction_not_permitted_2_generic": "",
+  "interaction_not_permitted_2_generic": "Ik kan je ook niet vertellen waarom. Maar ergens wil iemand niet dat je dit doet...\nHeb je veel vijanden?",
 
   // I would love to let you though! All you have to do is get yourself some **Manage Messages** permissions!
-  "interaction_not_permitted_2_manage_messages": "",
+  "interaction_not_permitted_2_manage_messages": "Ik zou het je echter graag laten doen! Het enige dat u hoeft te doen, is toestemming voor **Berichten beheren** verkrijgen!",
 
   // I was asked to prevent anyone without the **Manage Server** permission from going any further!
-  "interaction_not_permitted_2_manage_server": "",
+  "interaction_not_permitted_2_manage_server": "Er werd mij gevraagd om te voorkomen dat iemand zonder toestemming **Server beheren** verder gaat!",
 
   // Hooooold up!
-  "interaction_server_only_1": "",
+  "interaction_server_only_1": "Waaaaacht even!",
 
   // You cannot run this command in direct messages! Please try using it in a Discord Server.
-  "interaction_server_only_2": "",
+  "interaction_server_only_2": "U kunt deze opdracht niet uitvoeren in directe berichten! Probeer het alsjeblieft te gebruiken in een Discord-server.",
 
   // :flag_us:
-  "lang_flag_emoji": "",
+  "lang_flag_emoji": ":flag_nl:",
 
   // English (USA)
-  "lang_name": "The name of the language in your language - not in English. (Don't include the stuff in the brackets; that's a special case to distinguish American and British English). First letter in uppercase please.",
+  "lang_name": "Nederlands",
 
   // english-us
-  "lang_name_en": "The name of the language - this time in english. All lowercase please.",
+  "lang_name_en": "dutch",
 
   // Stop!
   "missing_setting_permissions_1": "",
@@ -522,22 +489,22 @@
   "missing_setting_permissions_2": "",
 
   // Silence
-  "mysterious_modal_no_response_1": "",
+  "mysterious_modal_no_response_1": "Stilte",
 
   // No one answers...
-  "mysterious_modal_no_response_2": "",
+  "mysterious_modal_no_response_2": "Niemand reageert...",
 
   // ...
-  "mysterious_modal_no_response_3": "",
+  "mysterious_modal_no_response_3": "...",
 
   // No response
-  "mysterious_modal_no_response_4": "",
+  "mysterious_modal_no_response_4": "Geen antwoord",
 
   // Nobody heard you...
-  "mysterious_modal_no_response_5": "",
+  "mysterious_modal_no_response_5": "Niemand hoort jou.....",
 
   // What do you want?
-  "mysterious_modal_prompt_1": "",
+  "mysterious_modal_prompt_1": "Wat wil je?",
 
   // What do you desire?
   "mysterious_modal_prompt_2": "",
@@ -549,88 +516,43 @@
   "mysterious_modal_prompt_4": "",
 
   // You are ready!
-  "mysterious_modal_prompt_5": "",
+  "mysterious_modal_prompt_5": "Jij bent klaar!",
 
   // Shout into the forest!
   "mysterious_modal_title": "",
 
   // Open in browser
-  "open_in_browser": "",
+  "open_in_browser": "Open in browser",
 
   // Open in Epic Games Launcher
-  "open_in_epic_games_client": "",
+  "open_in_epic_games_client": "Open in Epic Games client",
 
   // Open in Steam Client
-  "open_in_steam_client": "",
+  "open_in_steam_client": "Open in Steam client",
 
   // About
-  "page_about": "max 25 characters",
+  "page_about": "",
 
   // Attributions
   "page_attributions": "",
 
   // Help Page
-  "page_help": "max 25 characters",
+  "page_help": "",
 
   // Invite the bot
-  "page_invite": "max 25 characters",
+  "page_invite": "Nodig de bot uit",
 
   // Bot Settings
-  "page_settings": "max 25 characters",
+  "page_settings": "Bot-instellingen",
 
   // Support
-  "page_support": "max 25 characters",
+  "page_support": "",
 
   // Manage Webhooks
   "permission_manage_webhooks": "",
 
   // View Channel
   "permission_view_channel": "",
-
-  // Apple App Store
-  "platform_apple": "NO_TRANSLATION",
-
-  // Discord
-  "platform_discord": "NO_TRANSLATION",
-
-  // Epic Games
-  "platform_epic": "NO_TRANSLATION",
-
-  // GOG.com
-  "platform_gog": "NO_TRANSLATION",
-
-  // Google Play
-  "platform_google": "NO_TRANSLATION",
-
-  // Humble Bundle
-  "platform_humble": "NO_TRANSLATION",
-
-  // itch.io
-  "platform_itch": "NO_TRANSLATION",
-
-  // Origin
-  "platform_origin": "NO_TRANSLATION",
-
-  // Other
-  "platform_other": "NO_TRANSLATION",
-
-  // Play Station
-  "platform_ps": "NO_TRANSLATION",
-
-  // Steam
-  "platform_steam": "NO_TRANSLATION",
-
-  // Nintendo Switch
-  "platform_switch": "NO_TRANSLATION",
-
-  // Twitch
-  "platform_twitch": "NO_TRANSLATION",
-
-  // Ubisoft Store
-  "platform_uplay": "NO_TRANSLATION",
-
-  // Xbox
-  "platform_xbox": "NO_TRANSLATION",
 
   // About Premium
   "premium_promo_button": "",
@@ -666,25 +588,25 @@
   "premium_upsell_threadopts_title": "",
 
   // Actual price
-  "price_actual": "",
+  "price_actual": "werkelijke prijs",
 
   // Everything
-  "price_class_a": "Instead of setting any price you now have 4 minimum prices to choose from. This one is the equivalent to $0\n -- \nmax 25 characters",
+  "price_class_a": "",
 
   // Almost Everything
-  "price_class_b": "$1 and up\n -- \nmax 25 characters",
+  "price_class_b": "",
 
   // Default
-  "price_class_c": "$3 and up (default, surprise)\n -- \nmax 25 characters",
+  "price_class_c": "",
 
   // Big fish
-  "price_class_d": "$10 and up. feel free to give this another name lol\n -- \nmax 25 characters",
+  "price_class_d": "Grote betaler",
 
   // Converted from USD
   "price_converted": "",
 
   // Privacy Policy
-  "privacy_policy": "max 25 characters",
+  "privacy_policy": "Privacybeleid",
 
   // Permanently Free
   "product_meta_flag_permanent": "",
@@ -696,10 +618,10 @@
   "product_meta_flag_thirdparty": "",
 
   // Low Quality
-  "product_meta_flag_trash": "",
+  "product_meta_flag_trash": "Lage kwaliteit",
 
   // Refresh List
-  "refresh_channel_list": "",
+  "refresh_channel_list": "Wijzigingen aangebracht? Lijst opnieuw laden",
 
   // Click here to reload the channel list
   "refresh_channel_list_description": "",
@@ -708,34 +630,28 @@
   "refresh_channel_list_title": "",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_channel_timeout": "",
+  "refresh_channel_timeout": "Vertragen! Je kunt deze lijst slechts elke {interval} seconden opnieuw laden!",
 
   // Channel list refreshed
   "refresh_channels_success": "",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
-  "refresh_channels_timeout": "",
+  "refresh_channels_timeout": "Waar is je geduld! Voor veiligheids redenen kunnen we alleen toestaan dat je 1x op de knop kan drukken elke {interval} seconde!",
 
   // Refresh List
-  "refresh_role_list": "",
+  "refresh_role_list": "Wijzigingen aangebracht? Lijst opnieuw laden",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_role_timeout": "",
+  "refresh_role_timeout": "Vertragen! Je kunt deze lijst slechts elke {interval} seconden opnieuw laden!",
 
   // Welcome to FreeStuff!
-  "settings2_main_1_first_time": "",
+  "settings2_main_1_first_time": "Welkom bij FreeStuff!",
 
   // FreeStuff Settings
-  "settings2_main_1_regular": "",
-
-  // We are very excited to see you!\n**Let's quickly set up notifications so you will never miss any freebies, alright?**\n\nFreeStuff can inform you about multiple kinds of free games, we call those different **subscriptions**. You can see all available subscriptions below. To subscribe to one of those or to get more info just click on the button. It's that simple.\n\nWe recommend you check out **{recommendation}** first. You'll love it. Pinky promise.
-  "settings2_main_2_first_time": "",
-
-  // Hey, welcome back! Settings have changed a bit since your last visit. Let me catch you up to speed real quick, and trust me you wanna hear about this:\n\nFreeStuff now has multiple **subscriptions** you can individually subscribe to. In addition to the **100% Discount** games you are used to we have some new categories including **Free Weekend** games and more to be announced soon.\n\nClick on a subscription to manage it, you should find those settings a bit more familiar. If you need any help feel free to step by our [support server]({invite}) or check out our [guide]({guide})!\n\nSee ya!
-  "settings2_main_2_first_time_v1prev": "",
+  "settings2_main_1_regular": "FreeStuff-instellingen",
 
   // Welcome back! Manage your subscriptions below. Click on a category (blue button) for more info and to change settings.\nNeed help? Check out our [support server]({invite}) or [guide]({guide})!
-  "settings2_main_2_regular": "",
+  "settings2_main_2_regular": "Welkom terug! Beheer hieronder uw abonnementen. Klik op een abonnement voor meer info en om instellingen te wijzigen.\nHulp nodig? Bekijk onze [support server]({invite}) of [guide]({guide})!",
 
   // Disable Auto Publish
   "settings_auto_publish_off_prompt": "",
@@ -791,35 +707,23 @@
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "",
 
-  // Uhhhh what are you doing?
-  "settings_change_any_while_unsubscribed_1": "",
-
-  // Trying to fool the system? You cannot change this setting while you are not subscribed to {channel}. Subscribe first, then come back.
-  "settings_change_any_while_unsubscribed_2": "",
-
   // Edit Avatar and Name
   "settings_change_bot_profile": "",
 
   // You have too many webhooks in {channel}! Please open the channel settings, go to integrations, delete some unused webhooks, and come back. This limitation is enforced by Discord, we cannot do anything about this unfortunately.
-  "settings_channel_error_too_many_webhooks": "",
+  "settings_channel_error_too_many_webhooks": "Je hebt te veel webhooks in {channel}! Open de kanaalinstellingen, ga naar integraties, verwijder enkele ongebruikte webhooks en kom terug. Deze beperking wordt afgedwongen door Discord, hier kunnen wij helaas niets aan doen.",
 
   // here
-  "settings_channel_list_here": "max 10 characters",
-
-  // No channel
-  "settings_channel_list_no_channel_1": "max 25 characters",
-
-  // Disable free games feed
-  "settings_channel_list_no_channel_2": "max 50 characters",
+  "settings_channel_list_here": "",
 
   // You have too many channels to show them all in the list below.
-  "settings_channel_list_too_many": "",
+  "settings_channel_list_too_many": "Je hebt teveel kanalen om ze hieronder in de lijst te weergeven.",
 
   // Missing \"Embed Messages\" Permission
   "settings_channel_list_warning_missing_embed_messages": "",
 
   // Missing \"Manage Webhooks\" Permission
-  "settings_channel_list_warning_missing_manage_webhooks": "",
+  "settings_channel_list_warning_missing_manage_webhooks": "Ontbrekende machtiging \"Webhooks beheren\".",
 
   // Missing \"Send Messages\" Permission
   "settings_channel_list_warning_missing_send_messages": "",
@@ -828,7 +732,7 @@
   "settings_channel_list_warning_missing_view_channel": "",
 
   // You have waaaaay too many channels to show them all in the list below. How do you even find anything in here?
-  "settings_channel_list_way_too_many": "",
+  "settings_channel_list_way_too_many": "Je hebt teveel kanalen om ze hieronder in de lijst te weergeven. Hoe kan jij die eigenlijk allemaal vinden?",
 
   // Change The Channel
   "settings_channel_ui_1": "",
@@ -843,7 +747,7 @@
   "settings_channel_ui_2_way_too_many": "",
 
   // Can't change channel to {channel}: Missing \"{permissions}\" permissions!
-  "settings_channel_ui_missing_permissions": "",
+  "settings_channel_ui_missing_permissions": "Kan kanaal niet wijzigen in {channel}: machtigingen voor \"{permissions}\" ontbreken!",
 
   // If you cannot find your desired channel, run /settings in that very channel to force it to show up.
   "settings_channel_ui_too_many_channels_tip": "",
@@ -852,7 +756,7 @@
   "settings_channel_unknown_channel": "",
 
   // Other Settings
-  "settings_conf_ui_1": "",
+  "settings_conf_ui_1": "Algemene Instellingen",
 
   // **Select Language** will change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.\n\n**Select Currency** will change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
   "settings_conf_ui_2": "",
@@ -885,16 +789,16 @@
   "settings_display_extra_label": "",
 
   // Disable Auto Reaction
-  "settings_display_reactions_off_prompt": "max 25 characters",
+  "settings_display_reactions_off_prompt": "",
 
   // Auto Reaction Disabled
-  "settings_display_reactions_off_state": "max 25 characters",
+  "settings_display_reactions_off_state": "",
 
   // Enable Auto Reaction
-  "settings_display_reactions_on_prompt": "max 25 characters",
+  "settings_display_reactions_on_prompt": "",
 
   // Auto Reaction Enabled
-  "settings_display_reactions_on_state": "max 25 characters",
+  "settings_display_reactions_on_state": "",
 
   // Select theme
   "settings_display_theme_label": "",
@@ -956,68 +860,32 @@
   // Things like steam point shop items
   "settings_filter_kinds_storeitem_2": "",
 
-  // (All disabled)
-  "settings_filter_platforms_none": "max 50 characters",
-
   // Send all games. Every. Single. One.
-  "settings_filter_price_class_desc_everything": "max 50 characters",
+  "settings_filter_price_class_desc_everything": "",
 
   // Only send games worth {price} or more
-  "settings_filter_price_class_desc_generic": "max 50 characters in total (count {price} as 5 characters)",
+  "settings_filter_price_class_desc_generic": "",
 
   // Minimum original price
   "settings_filter_prices_label": "",
 
-  // Disable Games
-  "settings_filter_show_passgames_off_prompt": "",
-
-  // Games Disabled
-  "settings_filter_show_passgames_off_state": "",
-
-  // Enable Games
-  "settings_filter_show_passgames_on_prompt": "",
-
-  // Games Enabled
-  "settings_filter_show_passgames_on_state": "",
-
-  // Disable Loot
-  "settings_filter_show_passloot_off_prompt": "",
-
-  // Loot Disabled
-  "settings_filter_show_passloot_off_state": "",
-
-  // Enable Loot
-  "settings_filter_show_passloot_on_prompt": "",
-
-  // Loot Enabled
-  "settings_filter_show_passloot_on_state": "",
-
   // Only from these stores
   "settings_filter_stores_label": "",
+
+  // (All disabled)
+  "settings_filter_stores_none": "",
 
   // Show bad quality games
   "settings_filter_trash_1": "",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "max 25 characters",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "max 25 characters",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "max 25 characters",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "max 25 characters",
 
   // Filter Settings
   "settings_filter_ui_1": "",
 
   // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
-  "settings_filter_ui_2": "",
+  "settings_filter_ui_2": "Er zijn veel gratis spellen, sommige interessanter dan andere. Om je kostbare Discord-server niet te overspoelen met spam, hebben we een aantal opties waarmee je kunt beslissen welke games je graag wilt zien:",
 
   // Read the guide
   "settings_generic_help_solution_guide_1": "",
@@ -1038,7 +906,7 @@
   "settings_guilddata_data_ready": "",
 
   // Delete Server Data
-  "settings_guilddata_delete_button": "max 25 characters",
+  "settings_guilddata_delete_button": "",
 
   // Are you sure?
   "settings_guilddata_delete_dialogue_confirmation_1": "",
@@ -1074,34 +942,16 @@
   "settings_guilddata_success_1": "",
 
   // English with the metric system
-  "settings_language_list_desc_english_eu": "max 50 characters",
+  "settings_language_list_desc_english_eu": "Engels uit Engeland",
 
   // English with the imperial system
-  "settings_language_list_desc_english_us": "max 50 characters",
+  "settings_language_list_desc_english_us": "Engels uit United States",
 
   // English with football fields per pizza slice
-  "settings_language_list_desc_english_us_easteregg": "max 50 characters",
+  "settings_language_list_desc_english_us_easteregg": "",
 
   // {language} by {translators}
-  "settings_language_list_desc_generic": "don't add text after {translators} or else it will probably get cut off. oh and in general, don't write much here",
-
-  // Language Selection
-  "settings_language_ui_1": "",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "",
-
-  // Oh no!
-  "settings_locked_premium_1": "",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
+  "settings_language_list_desc_generic": "",
 
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "",
@@ -1115,50 +965,23 @@
   // Click to add new sources
   "settings_main_add_sources_placeholder": "",
 
-  // Change channel
-  "settings_main_btn_channel_change": "max 25 characters",
-
-  // Set channel
-  "settings_main_btn_channel_set": "max 25 characters",
-
   // Display Settings
-  "settings_main_btn_display": "max 25 characters",
+  "settings_main_btn_display": "Beeldscherminstellingen",
 
   // Filter Settings
-  "settings_main_btn_filter": "max 25 characters",
+  "settings_main_btn_filter": "Filterinstellingen",
 
   // Other Settings
-  "settings_main_btn_general": "",
+  "settings_main_btn_general": "Algemene Instellingen",
 
   // Need help?
   "settings_main_btn_help": "",
 
   // Advanced
-  "settings_main_btn_more": "max 25 characters",
+  "settings_main_btn_more": "Geavanceerd",
 
   // Notification Settings
-  "settings_main_btn_notifications": "",
-
-  // Change role mention
-  "settings_main_btn_role_change": "max 25 characters",
-
-  // Mention a role
-  "settings_main_btn_role_set": "max 25 characters",
-
-  // Need help?
-  "settings_main_help_1": "",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
+  "settings_main_btn_notifications": "Notificatie Instellingen",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "",
@@ -1176,34 +999,34 @@
   "settings_main_ui_1": "",
 
   // Looks like you still didn't finish setting up the bot :eyes:\n\nWhy don't you start by picking a channel for me to send free games to?
-  "settings_main_ui_2_guided_channel_delayed": "",
+  "settings_main_ui_2_guided_channel_delayed": "Het lijkt erop dat je nog steeds niet klaar bent met het instellen van de bot :eyes:",
 
   // Welcome to FreeStuff :wave:\n\nGlad you found your way to the settings page! Let's get started by picking a channel I can use to keep you and your friends up to date with free games! Click the blue button below to continue:
-  "settings_main_ui_2_guided_channel_normal": "",
+  "settings_main_ui_2_guided_channel_normal": "Hallo daar!\nWelkom bij FreeStuff :wave:\nFijn dat je de weg naar de instellingenpagina hebt gevonden! Laten we beginnen door een kanaal te kiezen dat ik kan gebruiken om jou en je vrienden op de hoogte te houden van gratis games! Klik op de blauwe knop hieronder om verder te gaan:",
 
   // You got some more settings to check out! I'm talking about themes and currency options and whatnot. Interested? The blue button will get you there!
-  "settings_main_ui_2_guided_display_delayed": "",
+  "settings_main_ui_2_guided_display_delayed": "Je hebt nog wat instellingen om uit te checken! Ik heb het over thema's en valuta-opties en zo. Geïnteresseerd? Met de blauwe knop kom je er!",
 
   // Perfect! Last checkpoint on the list is the display settings. It's absolutely worth giving them a quick look!
-  "settings_main_ui_2_guided_display_normal": "",
+  "settings_main_ui_2_guided_display_normal": "Perfect! Het laatste controlepunt op de lijst zijn de weergave-instellingen. Het is absoluut de moeite waard om ze snel te bekijken!",
 
   // Welcome back! You might be missing out on some free games because the filter options are not configured to your likings! Better check them out real quick, it doesn't take long :eyes:
-  "settings_main_ui_2_guided_filter_delayed": "",
+  "settings_main_ui_2_guided_filter_delayed": "Welkom terug! Je loopt misschien enkele gratis spellen mis omdat de filteropties niet naar wens zijn geconfigureerd! Bekijk ze maar snel, het duurt niet lang :eyes:",
 
   // Okay awesome, let's continue with filter settings. You might be missing out on some games if you don't check those out!
-  "settings_main_ui_2_guided_filter_normal": "",
+  "settings_main_ui_2_guided_filter_normal": "Oké geweldig, laten we doorgaan met filterinstellingen. Het kan zijn dat je sommige games misloopt als je die niet checkt!",
 
   // Awesome, you're done with setting up the FreeStuff Bot! Enjoy your free games! :partying_face:\n\nLooking for other people to talk about free games? [Join our Discord Server]({invite})\n\n*You can always return to this page using /settings*
-  "settings_main_ui_2_guided_finished": "",
+  "settings_main_ui_2_guided_finished": "Geweldig, je bent klaar met het opzetten van de FreeStuff Bot! Geniet van je gratis spellen! :partying_face:\nOp zoek naar andere mensen om over gratis games te praten? [Word lid van onze Discord-server]({invite})\n*Je kunt altijd terugkeren naar deze pagina via /settings*",
 
   // Wanna continue setting up the bot?\nI'd suggest you check out role mentions next! Just click the button below to see what's possible!
-  "settings_main_ui_2_guided_role_delayed": "",
+  "settings_main_ui_2_guided_role_delayed": "Wil je doorgaan met het instellen van de bot?\nIk raad je aan om hierna de rolvermeldingen te bekijken! Klik op de knop hieronder om te zien wat er allemaal mogelijk is!",
 
   // Good job! Next up, maybe wanna get notified when a game becomes free? I'm talking about pinging a role or maybe even @everyone?\nClick the button below to see what's possible :eyes:
-  "settings_main_ui_2_guided_role_normal": "",
+  "settings_main_ui_2_guided_role_normal": "Goed gedaan! Vervolgens, wil je misschien een melding ontvangen wanneer een game gratis wordt? Ik heb het over het pingen van een rol of misschien zelfs @iedereen?\nKlik op onderstaande knop om te zien wat er allemaal mogelijk is :eyes:",
 
   // Hey there!\n\nCan't seem to find a setting? Need help with configuring the bot properly? Or have any other questions? [Click here for a Guide]({guide}) that walks you through everything or alternatively [join our Support Server]({invite}) for personal help.
-  "settings_main_ui_2_regular": "",
+  "settings_main_ui_2_regular": "Hallo daar!\nKun je een instelling niet vinden? Hulp nodig bij het correct configureren van de bot? Of heb je andere vragen? [Klik hier voor een handleiding]({guide}) die u door alles heen leidt of [word lid van onze ondersteuningsserver]({invite}) voor persoonlijke hulp.",
 
   // Welcome to FreeStuff!\n\nIf you want to get **automatic notifications** for **free games**, you need to **add** at least **one source** below. You can always come back later and add or remove more sources.
   "settings_main_welcome": "",
@@ -1218,16 +1041,16 @@
   "settings_more_beta_name": "",
 
   // Opt out of Beta
-  "settings_more_beta_off_prompt": "max 25 characters",
+  "settings_more_beta_off_prompt": "Afmelden voor bèta",
 
   // You're not in beta!
-  "settings_more_beta_off_state": "max 25 characters",
+  "settings_more_beta_off_state": "",
 
   // Opt in to Beta
-  "settings_more_beta_on_prompt": "max 25 characters",
+  "settings_more_beta_on_prompt": "Aanmelden voor bèta",
 
   // You're in beta!
-  "settings_more_beta_on_state": "max 25 characters",
+  "settings_more_beta_on_state": "",
 
   // When Boring Mode is enabled you are opted out from april fools events and things might be more dull in general.
   "settings_more_boringmode_description": "",
@@ -1251,61 +1074,52 @@
   "settings_more_btn_debug": "",
 
   // View Server Data
-  "settings_more_btn_guilddata": "max 25 characters",
-
-  // Re-send Messages
-  "settings_more_btn_resend": "max 25 characters",
-
-  // Send Test Message
-  "settings_more_btn_test": "max 25 characters",
+  "settings_more_btn_guilddata": "",
 
   // Your Data
   "settings_more_data_label": "",
 
   // Mysterious Button
-  "settings_more_mysterious_button": "",
+  "settings_more_mysterious_button": "Mysterieuze knop",
 
   // Advanced Options
   "settings_more_ui_1": "",
-
-  // **View Server Data** will show you what data we store about your server.\n\n**Opt in to Beta** will allow you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.\n\n**Enable Boring Mode** will opt you out from april fools events and might make things more dull in general.
-  "settings_more_ui_2": "",
 
   // You need \"Manage Server\" permissions to edit this
   "settings_permission_disclaimer": "",
 
   // Add Role
-  "settings_role_add_role": "",
+  "settings_role_add_role": "Rol toevoegen",
 
   // @everyone
-  "settings_role_list_everyone_1": "just keep this @everyone\n -- \nmax 25 characters",
+  "settings_role_list_everyone_1": "@everyone",
 
   // Ping everyone. That's a lot of people.
-  "settings_role_list_everyone_2": "max 50 characters",
+  "settings_role_list_everyone_2": "Ping iedereen. Dat zijn veel mensen.",
 
   // Some roles might be hidden because you have too many to show at once. Move your role to the top if you can't find it in the list!
-  "settings_role_list_hidden_overflow_disclaimer": "",
+  "settings_role_list_hidden_overflow_disclaimer": "Sommige rollen zijn mogelijk verborgen omdat je er te veel hebt om in één keer te laten zien. Verplaats uw rol naar boven als u deze niet in de lijst kunt vinden!",
 
   // Some roles might be hidden because the bot doesn't have the `Mention All Roles` permission!
-  "settings_role_list_hidden_permissions_disclaimer": "",
+  "settings_role_list_hidden_permissions_disclaimer": "Sommige rollen zijn mogelijk verborgen omdat de bot niet de machtiging `Alle rollen vermelden` heeft!",
 
   // Disable Mentions
-  "settings_role_list_no_mention_1": "max 25 characters",
+  "settings_role_list_no_mention_1": "Schakel vermeldingen uit",
 
   // Do not ping anyone.
-  "settings_role_list_no_mention_2": "max 50 characters",
+  "settings_role_list_no_mention_2": "Ping niemand.",
 
   // None selected
-  "settings_role_list_remove_role_1": "",
+  "settings_role_list_remove_role_1": "Geen geselecteerd",
 
   // Click here to remove this role
-  "settings_role_list_remove_role_2": "",
+  "settings_role_list_remove_role_2": "Klik hier om deze rol te verwijderen",
 
   // Notification Settings
   "settings_role_ui_1": "",
 
   // Pick a role to ping when a new game becomes free!
-  "settings_role_ui_2": "",
+  "settings_role_ui_2": "Kies een rol om te pingen wanneer een nieuwe game gratis wordt!",
 
   // More
   "settings_sub_btn_more": "",
@@ -1347,16 +1161,16 @@
   "settings_subscription_more_test_btn": "",
 
   // More
-  "settings_subscription_more_ui_1": "",
+  "settings_subscription_more_ui_1": "Geavanceerd",
 
   // **Send Test Message** sends a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.\n\n**Re-send Messages** will re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This button is for you!
   "settings_subscription_more_ui_2": "",
 
   // Click here to get notified
-  "settings_subscription_not_subscribed_1": "",
+  "settings_subscription_not_subscribed_1": "Klik hier om te abonneren",
 
   // Pick a channel below to enable automatic notifications for {subscription}
-  "settings_subscription_not_subscribed_2": "",
+  "settings_subscription_not_subscribed_2": "Kies een kanaal hier beneden om te abonneren op {subscription}",
 
   // Your Premium subscription expired. We have paused your notifications for {subscription} until you resubscribe.
   "settings_subscription_premium_expired": "",
@@ -1365,22 +1179,13 @@
   "settings_subscription_unlocked_premium": "",
 
   // Unsubscribe {subscription}
-  "settings_subscription_unsubscribe_1": "",
+  "settings_subscription_unsubscribe_1": "Afmelden {subscription}",
 
   // You will stop receiving games from this category.
-  "settings_subscription_unsubscribe_2": "",
-
-  // Slash commands are here!
-  "slash_command_introduction_info_short": "",
-
-  // Slash commands are here! Use **{command}** from now on!
-  "slash_command_introduction_label_long": "",
-
-  // Use **{command}** from now on!
-  "slash_command_introduction_label_short": "",
+  "settings_subscription_unsubscribe_2": "Je ontvangt geen games meer uit deze categorie.",
 
   // {user} used {command}
-  "slash_command_source": "",
+  "slash_command_source": "{user} gebruikte {command}",
 
   // Gamedev Assets
   "subscription_assets_name": "",
@@ -1389,25 +1194,25 @@
   "subscription_debug_promo": "",
 
   // Sign up to get notified about any games or other content newly added to Game Pass. You require a Game Pass subscription to make use of these offers.\nYou can filter by price and quality.
-  "subscription_gamepass_description": "",
+  "subscription_gamepass_description": "Dit abonnement laat je alle games zien die nieuw zijn toegevoegd aan de Game Pass-titelreeks. Voor deze games is een Game Pass-abonnement vereist om gratis te kunnen spelen zolang de aanbieding geldig is.\nU kunt filteren op prijs en kwaliteit.",
 
   // New arrivals on Xbox Game Pass.
   "subscription_gamepass_hint": "",
 
   // Game Pass
-  "subscription_gamepass_name": "",
+  "subscription_gamepass_name": "Game Pass",
 
   // Game pass users, we've got you! Check out {name} to receive all new arrivals directly in Discord!
   "subscription_gamepass_promo": "",
 
   // Sign up to get a notification when any game gets a 100% discount for a limited amount of time. This means you can get them for free and even keep them after the sale is over. Nothing to lose.\nYou can filter by price, platform and quality.
-  "subscription_keep_description": "",
+  "subscription_keep_description": "Dit abonnement laat je games zien die gedurende een beperkte tijd 100% korting hebben. Je kunt die spellen houden nadat de verkoop voorbij is.\n\nU kunt filteren op prijs, platform en kwaliteit.",
 
   // Games with a temporary 100% discount.
   "subscription_keep_hint": "",
 
   // 100% Discount
-  "subscription_keep_name": "",
+  "subscription_keep_name": "100% korting",
 
   // {name} is a must have! Receive notifications for regular, paid games at a temporary 100% discount! Claim in time and keep them forever!
   "subscription_keep_promo": "",
@@ -1437,25 +1242,25 @@
   "subscription_news_promo": "",
 
   // Sign up to see all sorts of other offers that are available at a temporary 100% discount. This means DLCs, Addons, Ingame Content, Store Items or something else entirely, but always free to claim and keep forever.\nYou can filter by price, platform and product type.
-  "subscription_other_description": "",
+  "subscription_other_description": "Dit abonnement laat je allerlei andere aanbiedingen zien die voor een beperkte tijd met 100% korting beschikbaar zijn. Dit omvat meestal geen games, maar kan ook andere software omvatten, zoals DLC's of niet-gaminggerelateerde items.\nU kunt filteren op prijs, platform en producttype.",
 
   // DLCs, Addons, Ingame Content & more at 100% off.
   "subscription_other_hint": "",
 
   // DLCs & More
-  "subscription_other_name": "",
+  "subscription_other_name": "DLC's en meer",
 
   // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
   "subscription_other_promo": "",
 
   // Sign up to get notified about any games or other content newly added to Prime Gaming. You require a Prime Gaming subscription to make use of these offers. \nYou can filter by type, price and quality.
-  "subscription_prime_description": "",
+  "subscription_prime_description": "Dit abonnement laat je alle games zien die nieuw zijn toegevoegd aan de Prime Gaming-suite met titels. Je hebt een Prime Gaming-abonnement nodig om games uit deze categorie te krijgen. Je kunt ze houden nadat de aanbieding is verlopen.\nU kunt filteren op prijs en kwaliteit.",
 
   // New arrivals on Prime Gaming.
   "subscription_prime_hint": "",
 
   // Prime Gaming
-  "subscription_prime_name": "",
+  "subscription_prime_name": "Prime-gaming",
 
   // Got an Amazon Prime Gaming subscription or thinking of getting one? With our {name} notifications you'll stay ahead and never miss out!
   "subscription_prime_promo": "",
@@ -1467,85 +1272,85 @@
   "subscription_primeloot_name": "",
 
   // Sign up to receive notifications about games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
-  "subscription_timed_description": "",
+  "subscription_timed_description": "Dit abonnement laat je games zien die je een beperkte tijd gratis kunt uitproberen en spelen. Je kunt die spellen niet houden nadat de tijd voorbij is en je moet ze kopen om verder te spelen.\nU kunt filteren op prijs, platform en kwaliteit.",
 
   // Games that are temporarily free to play.
   "subscription_timed_hint": "",
 
   // Free Weekend
-  "subscription_timed_name": "",
+  "subscription_timed_name": "Gratis Weekend",
 
   // Into exploring new games? {name} got you covered, with news about games that are temporarily free to play, usually for a couple of days.
   "subscription_timed_promo": "",
 
   // Terms of Service
-  "terms_of_service": "max 25 characters",
+  "terms_of_service": "",
 
   // You cannot get less than this
-  "theme_eight_desc": "max 50 characters",
+  "theme_eight_desc": "",
 
   // Bare minimum
-  "theme_eight_name": "max 25 characters",
+  "theme_eight_name": "",
 
   // A theme with minimal extra info
-  "theme_five_desc": "max 50 characters",
+  "theme_five_desc": "",
 
   // Keep it simple
-  "theme_five_name": "max 25 characters",
+  "theme_five_name": "",
 
   // Only weird people chose this
-  "theme_four_desc": "max 50 characters",
+  "theme_four_desc": "",
 
   // More info less images!
-  "theme_four_name": "max 25 characters",
+  "theme_four_name": "",
 
   // If you need some context but don't like embeds
-  "theme_nine_desc": "max 50 characters",
+  "theme_nine_desc": "Als je wat context nodig hebt, maar niet van insluitingen houdt",
 
   // Text only!
-  "theme_nine_name": "max 25 characters",
+  "theme_nine_name": "",
 
   // Pretty basic
-  "theme_one_desc": "And descriptions too! Get creative! Doesn't need to be a 1:1 translation!\n -- \nmax 50 characters",
+  "theme_one_desc": "",
 
   // Default Theme
-  "theme_one_name": "Themes now have name, not just 1, 2, 3 and so on\n -- \nmax 25 characters",
+  "theme_one_name": "",
 
   // It's literally just the link
-  "theme_seven_desc": "max 50 characters",
+  "theme_seven_desc": "",
 
   // Literally just the link
-  "theme_seven_name": "max 25 characters",
+  "theme_seven_name": "",
 
   // A theme with almost minimal extra info
-  "theme_six_desc": "max 50 characters",
+  "theme_six_desc": "",
 
   // Images are cool!
-  "theme_six_name": "max 25 characters",
+  "theme_six_name": "",
 
   // For ArchiSteamFarm users and alike
-  "theme_ten_desc": "max 50 characters",
+  "theme_ten_desc": "",
 
   // Advanced
-  "theme_ten_name": "max 25 characters",
+  "theme_ten_name": "",
 
   // With a short description and ratings
-  "theme_three_desc": "max 50 characters",
+  "theme_three_desc": "",
 
   // More info!
-  "theme_three_name": "max 25 characters",
+  "theme_three_name": "",
 
   // If you don't like images
-  "theme_two_desc": "max 50 characters",
+  "theme_two_desc": "Als je niet van foto's houdt",
 
   // No photos please!
-  "theme_two_name": "max 25 characters",
+  "theme_two_name": "Geen plaatjes graag!",
 
   // We send a message in your channel. That's all.
-  "thread_opt_a_description": "",
+  "thread_opt_a_description": "Wij versturen een bericht in jouw kanaal. Dat is alles.",
 
   // No threads
-  "thread_opt_a_name": "",
+  "thread_opt_a_name": "Geen threads",
 
   // Message goes in your channel but we start a thread for it.
   "thread_opt_b_description": "",
@@ -1557,35 +1362,8 @@
   "thread_opt_c_description": "",
 
   // Message in thread
-  "thread_opt_c_name": "",
-
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "[your language] translation available! If you want me to use [your language], use /settings",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "NO_TRANSLATION",
-
-  // English translation by:
-  "translation_by": "Translate this one 1:1 except with your language instead of \"English\" - don't add your name here or anything.",
-
-  // Maanex
-  "translators": "Names of everyone who helped translating. Seperate names using a comma.",
+  "thread_opt_c_name": "Bericht in thread",
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": ""
+  "webhook_create_auditlog_reason": "FreeStuff gebruikt Webhooks om aankondigingen op grote schaal te verspreiden. Verwijder deze webhook niet."
 }

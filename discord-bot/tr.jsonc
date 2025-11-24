@@ -423,13 +423,13 @@
   "free_recommendation_generic_3": "Kaçırdıysanız...",
 
   // Well received:
-  "free_recommendation_positive": "",
+  "free_recommendation_positive": "Hoş karşılanıyor:",
 
   // FreeStuff team recommends:
-  "free_recommendation_staff_pick": "",
+  "free_recommendation_staff_pick": "FreeStuff ekibi öneriyor:",
 
   // Popular!
-  "free_recommendation_very_positive": "",
+  "free_recommendation_very_positive": "Popüler!",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Üçüncü Taraf Sağlayıcı",
@@ -636,34 +636,34 @@
   "premium_promo_button": "Premium Hakkında",
 
   // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
-  "premium_upsell_autopublish_description": "",
+  "premium_upsell_autopublish_description": "Artık manuel tıklamaya gerek yok! FreeStuff premium ile botun, aldığınız her bildirimi otomatik olarak duyuru kanallarında yayınlamasını sağlayabilirsiniz!",
 
   // Get premium to use auto publish!
-  "premium_upsell_autopublish_title": "",
+  "premium_upsell_autopublish_title": "Otomatik yayınlamayı kullanmak için premium alın!",
 
   // With FreeStuff premium you can have the bot automatically react to every notification you receive!
-  "premium_upsell_autoreact_description": "",
+  "premium_upsell_autoreact_description": "FreeStuff premium ile, aldığınız her bildirime botun otomatik olarak tepki vermesini sağlayabilirsiniz!",
 
   // Get premium to use auto reactions!
-  "premium_upsell_autoreact_title": "",
+  "premium_upsell_autoreact_title": "Otomatik tepkileri kullanmak için premium alın!",
 
   // With FreeStuff premium you can upload your own image for FreeStuff to use as the profile picture. You can also change the name to whatever you like. Make it blend in to your server!
-  "premium_upsell_botprofile_description": "",
+  "premium_upsell_botprofile_description": "FreeStuff premium ile FreeStuff'ın profil resmi olarak kullanması için kendi resminizi yükleyebilirsiniz. Ayrıca ismi dilediğiniz gibi değiştirebilirsiniz. Sunucunuza uyum sağlayın!",
 
   // Get premium to change the bot's profile!
-  "premium_upsell_botprofile_title": "",
+  "premium_upsell_botprofile_title": "Botun profilini değiştirmek için premium alın!",
 
   // If you are happy with the one role you selected, you don't need to get premium. Your changes are already saved!\nIf you do want to ping more than one role however, you can do this with premium!
-  "premium_upsell_multiping_description": "",
+  "premium_upsell_multiping_description": "Seçtiğiniz bir rolden memnunsanız premium almanıza gerek yoktur. Değişiklikleriniz zaten kaydedildi!\nAncak birden fazla role ping atmak istiyorsanız bunu premium ile yapabilirsiniz!",
 
   // Get premium to ping more than one role!
-  "premium_upsell_multiping_title": "",
+  "premium_upsell_multiping_title": "Birden fazla role ping atmak için premium alın!",
 
   // With FreeStuff premium you can have the bot automatically create threads for every notification you receive!\nYou can either have a thread below each notification or let it create a new thread to post the notification in. The choice is your's!
-  "premium_upsell_threadopts_description": "",
+  "premium_upsell_threadopts_description": "FreeStuff premium ile, aldığınız her bildirim için botun otomatik olarak başlık oluşturmasını sağlayabilirsiniz!\nHer bildirimin altında bir başlık oluşturabilir veya bildirimi yayınlamak için yeni bir başlık oluşturmasına izin verebilirsiniz. Seçim sizin!",
 
   // Get premium to create threads!
-  "premium_upsell_threadopts_title": "",
+  "premium_upsell_threadopts_title": "Başlık oluşturmak için premium alın!",
 
   // Actual price
   "price_actual": "Asıl fiyat",
@@ -702,16 +702,16 @@
   "refresh_channel_list": "Listeyi Yenile",
 
   // Click here to reload the channel list
-  "refresh_channel_list_description": "",
+  "refresh_channel_list_description": "Kanal listesini yeniden yüklemek için buraya tıklayın",
 
   // Made changes?
-  "refresh_channel_list_title": "",
+  "refresh_channel_list_title": "Değişiklik mi yaptınız?",
 
   // Slow down! You can only reload this list every {interval} seconds!
   "refresh_channel_timeout": "Yavaşlayın! Bu listeyi sadece {interval} saniyede bir yeniden yükleyebilirsiniz!",
 
   // Channel list refreshed
-  "refresh_channels_success": "",
+  "refresh_channels_success": "Kanal listesi yenilendi",
 
   // You are too fast! For safety reasons we can only allow you to press that button once every {interval} seconds!\\nWith best regards, John FreeStuff, founder of FreeStuff
   "refresh_channels_timeout": "Çok hızlısınız! Güvenlik nedeniyle bu düğmeye yalnızca her {interval} saniyede bir basmanıza izin verebiliriz!\\nSaygılarımla, John FreeStuff, FreeStuff'un kurucusu",
@@ -750,7 +750,7 @@
   "settings_auto_publish_on_state": "Otomatik Yayınlama Etkin",
 
   // Unfortunately Discord took our ability to preview your avatar. Click the link to see if it's working…
-  "settings_botprofile_avatar_description": "",
+  "settings_botprofile_avatar_description": "Ne yazık ki Discord, avatarınızın önizlemesini görme olanağımızı elinden aldı. Çalışıp çalışmadığını görmek için bağlantıya tıklayın…",
 
   // This does not look like a url
   "settings_botprofile_avatar_invalid_url_1": "Bu bir url gibi görünmüyor",
@@ -759,7 +759,7 @@
   "settings_botprofile_avatar_invalid_url_2": "Lütfen resminizin gerçekten yüklendiğinden ve bağlantının `http://` veya `https://` ile başladığından emin olun",
 
   // Bot Avatar
-  "settings_botprofile_avatar_label": "",
+  "settings_botprofile_avatar_label": "Bot Profil Resmi",
 
   // Ayo what's that
   "settings_botprofile_avatar_url_too_long_1": "Haydaa, bu da ne?",
@@ -768,25 +768,25 @@
   "settings_botprofile_avatar_url_too_long_2": "URL biraz... fazla... belki biraz... uzun. Daha kısa yapmayı deneyebilir misin?\nTeşekkürler :D",
 
   // Edit Avatar
-  "settings_botprofile_btn_edit_avatar": "Avatarı Düzenle",
+  "settings_botprofile_btn_edit_avatar": "Profil Resmini Düzenle",
 
   // Edit Name
   "settings_botprofile_btn_edit_name": "Adı Düzenle",
 
   // (missing)
-  "settings_botprofile_name_description": "",
+  "settings_botprofile_name_description": "(eksik)",
 
   // Bot Name
-  "settings_botprofile_name_label": "",
+  "settings_botprofile_name_label": "Bot Adı",
 
   // Uhhh, very sorry uhhh
   "settings_botprofile_name_too_long_1": "Uhhh, çok üzgünüm uhhh",
 
   // But your name can only be 32 characters long. Directive from above, nothing I can do about that, sorry.
-  "settings_botprofile_name_too_long_2": "Bot ismi sadece 32 karakter uzunluğunda olabilir. Yukarıdan yönlendiriyorum, bu konuda yapabileceğim bir şey yok, üzgünüm.",
+  "settings_botprofile_name_too_long_2": "Bot ismi sadece 32 karakter uzunluğunda olabilir. Emir büyük yerden, bu konuda yapabileceğim bir şey yok, üzgünüm.",
 
   // Avatar and Name
-  "settings_botprofile_ui_1": "Profil resmi ve isim",
+  "settings_botprofile_ui_1": "Profil resmi ve adı",
 
   // Customize the bot's name and profile picture when sending notifications. Due to limitations with Discord this custom profile only applies to free game notifications, not when using commands like `/settings` or `/free`.
   "settings_botprofile_ui_2": "Bildirim gönderirken botun ismini ve profil resmini özelleştirin. Discord ile ilgili sınırlamalar nedeniyle bu özel profil yalnızca ücretsiz oyun bildirimleri için geçerlidir, `/settings` veya `/free` gibi komutları kullanırken geçerli değildir.\n\n**Avatarı Düzenle** botun profil resmini değiştirmenizi sağlar. İstediğiniz resmin bir bağlantısını sağlamanız gerekir. Varsayılana sıfırlamak için boş bırakın.\n\n**Adı Düzenle** botun ismini değiştirmenize sağlar. Varsayılana sıfırlamak için boş bırakın.",
@@ -858,16 +858,16 @@
   "settings_conf_ui_2": "**Dil Seç**, bildirimlerin gösterildiği dili değiştirecektir. Bu, /settings veya /free gibi komutların dilini **değiştirmez**. Bunlar Discord'u kullandığınız dili kullanır. Çeviriler topluluk tarafından sağlanır ve hatalar içerebilir.\n**Para Birimi Seç** bildirimlerdeki para birimini değiştirecektir. Bazı fiyatlar diğer para birimlerinden veya web sitelerinden dönüştürülebilir ve bu nedenle her zaman %100 doğru olmayabilir.",
 
   // Change the currency in notifications. With some prices may get converted from other currencies or websites and thus might not always be 100% accurate.
-  "settings_conf_ui_currency_description": "",
+  "settings_conf_ui_currency_description": "Bildirimlerdeki para birimini değiştirin. Bazı fiyatlar diğer para birimlerinden veya web sitelerinden dönüştürülebilir ve dolayısıyla her zaman %100 doğru olmayabilir.",
 
   // Select Currency
-  "settings_conf_ui_currency_label": "",
+  "settings_conf_ui_currency_label": "Para Birimi Seçin",
 
   // Change the language notifications are shown in. This will **not** change the language of commands like /settings or /free. These use the same language you are using Discord in. Translations are community provided and might contain errors.
-  "settings_conf_ui_language_description": "",
+  "settings_conf_ui_language_description": "Bildirimlerin gösterildiği dili değiştirin. Bu, /settings veya /free gibi komutların dilini **değiştirmeyecektir**. Bunlar Discord'u kullandığınız dilin aynısını kullanır. Çeviriler topluluk tarafından sağlanır ve hatalar içerebilir.",
 
   // Select Language
-  "settings_conf_ui_language_label": "",
+  "settings_conf_ui_language_label": "Dil Seç",
 
   // Disable Claim-All Button
   "settings_display_expressbutton_off_prompt": "Hepsini Al Butonunu Devre Dışı Bırak",
@@ -882,7 +882,7 @@
   "settings_display_expressbutton_on_state": "Hepsini Al Butonu Etkinleştirildi",
 
   // More options
-  "settings_display_extra_label": "",
+  "settings_display_extra_label": "Daha fazla seçenek",
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Otomatik Tepkiyi Devre Dışı Bırak",
@@ -897,10 +897,10 @@
   "settings_display_reactions_on_state": "Otomatik Tepki Etkin",
 
   // Select theme
-  "settings_display_theme_label": "",
+  "settings_display_theme_label": "Tema seç",
 
   // Thread behavior
-  "settings_display_threadopt_label": "",
+  "settings_display_threadopt_label": "Başlık davranışı",
 
   // Display Settings
   "settings_display_ui_1": "Görüntüleme Ayarları",
@@ -909,52 +909,52 @@
   "settings_display_ui_2": "Botun mesajlarının görünümünü değiştirin",
 
   // Additional filters
-  "settings_filter_extra_label": "",
+  "settings_filter_extra_label": "Ek filtreler",
 
   // None enabled
-  "settings_filter_extra_none": "",
+  "settings_filter_extra_none": "Hiçbiri etkin değil",
 
   // Show Bundles
-  "settings_filter_kinds_bundle_1": "",
+  "settings_filter_kinds_bundle_1": "Paketleri Göster",
 
   // Collections of games, DLCs or other items
-  "settings_filter_kinds_bundle_2": "",
+  "settings_filter_kinds_bundle_2": "Oyun, DLC veya diğer öğelerden oluşan koleksiyonlar",
 
   // Show DLCs
-  "settings_filter_kinds_dlc_1": "",
+  "settings_filter_kinds_dlc_1": "DLC'leri göster",
 
   // Addons and other game extensions
-  "settings_filter_kinds_dlc_2": "",
+  "settings_filter_kinds_dlc_2": "Eklentiler ve diğer oyun uzantıları",
 
   // Games
-  "settings_filter_kinds_game_1": "",
+  "settings_filter_kinds_game_1": "Oyunlar",
 
   // Well. Games. The thing you play.
-  "settings_filter_kinds_game_2": "",
+  "settings_filter_kinds_game_2": "Evet. Oyunlar. Oynadığın şey.",
 
   // Only these kinds of items
-  "settings_filter_kinds_label": "",
+  "settings_filter_kinds_label": "Yalnızca bu tür öğeler",
 
   // Loot
-  "settings_filter_kinds_loot_1": "",
+  "settings_filter_kinds_loot_1": "Ganimet",
 
   // This is ingame content like skins, items, etc.
-  "settings_filter_kinds_loot_2": "",
+  "settings_filter_kinds_loot_2": "Bu skinler, öğeler vb. gibi oyun içi içeriklerdir.",
 
   // None selected
-  "settings_filter_kinds_none": "",
+  "settings_filter_kinds_none": "Hiçbiri seçilmedi",
 
   // Show other content
-  "settings_filter_kinds_other_1": "",
+  "settings_filter_kinds_other_1": "Diğer içeriği göster",
 
   // Stuff that does not fit into the other categories
-  "settings_filter_kinds_other_2": "",
+  "settings_filter_kinds_other_2": "Diğer kategorilere uymayan şeyler",
 
   // Show Store Items
-  "settings_filter_kinds_storeitem_1": "",
+  "settings_filter_kinds_storeitem_1": "Mağaza Öğelerini Göster",
 
   // Things like steam point shop items
-  "settings_filter_kinds_storeitem_2": "",
+  "settings_filter_kinds_storeitem_2": "Steam Puan Dükkanı ürünleri gibi şeyler",
 
   // (All disabled)
   "settings_filter_platforms_none": "(Hepsi devre dışı)",
@@ -966,7 +966,7 @@
   "settings_filter_price_class_desc_generic": "Sadece {price} veya daha yüksek değere sahip oyunları gönder",
 
   // Minimum original price
-  "settings_filter_prices_label": "",
+  "settings_filter_prices_label": "Minimum orijinal fiyat",
 
   // Disable Games
   "settings_filter_show_passgames_off_prompt": "Oyunları Devre Dışı Bırak",
@@ -993,25 +993,25 @@
   "settings_filter_show_passloot_on_state": "Ganimet Etkinleştirildi",
 
   // Only from these stores
-  "settings_filter_stores_label": "",
+  "settings_filter_stores_label": "Yalnızca bu mağazalardan",
 
   // Show bad quality games
-  "settings_filter_trash_1": "",
+  "settings_filter_trash_1": "Düşük kaliteli oyunları göster",
 
   // By default we won't show you games with bad ratings or of gernal poor quality
-  "settings_filter_trash_2": "",
+  "settings_filter_trash_2": "Varsayılan olarak size kötü derecelendirmelere sahip veya genel olarak düşük kalitede oyunlar göstermeyiz",
 
   // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Kalitesiz Oyunları Kapat",
+  "settings_filter_trash_off_prompt": "Düşük kaliteli Oyunları Kapat",
 
   // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Kalitesiz Oyunlar Kapalı",
+  "settings_filter_trash_off_state": "Düşük kaliteli Oyunlar Kapalı",
 
   // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Kalitesiz Oyunları Aç",
+  "settings_filter_trash_on_prompt": "Düşük kaliteli Oyunları Aç",
 
   // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Kalitesiz Oyunları Kapat",
+  "settings_filter_trash_on_state": "Düşük kaliteli Oyunları Kapat",
 
   // Filter Settings
   "settings_filter_ui_1": "Filtreleme Ayarları",
@@ -1020,16 +1020,16 @@
   "settings_filter_ui_2": "Dışarıda bir sürü ücretsiz oyun var, bazıları diğerlerinden daha ilginç. Değerli Discord sunucunuzu spam ile doldurmamak için hangi oyunları görmek istediğinize karar vermeniz için bazı seçeneklerimiz var:",
 
   // Read the guide
-  "settings_generic_help_solution_guide_1": "",
+  "settings_generic_help_solution_guide_1": "Rehberi okuyun",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_generic_help_solution_guide_2": "",
+  "settings_generic_help_solution_guide_2": "Tüm kurulum boyunca size yol gösterecek ve yol boyunca her şeyi açıklayacak şekilde hazırlanmış bir web sitemiz var. Kaybolursanız lütfen bakın!",
 
   // Join our support server
-  "settings_generic_help_solution_server_1": "",
+  "settings_generic_help_solution_server_1": "Destek sunucumuza katılın",
 
   // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_generic_help_solution_server_2": "",
+  "settings_generic_help_solution_server_2": "Rehber sana yardımcı olmadı mı? Size yardımcı olacak ve tüm sorularınızı yanıtlayacak bir destek sunucumuz var. İçeri girmekten çekinmeyin!",
 
   // Something failed while exporting your data, we are very sorry. You can reach out to us and manually request a copy of your data via team@freestuffbot.xyz - Please include your server id in the E-Mail. Thanks.
   "settings_guilddata_data_failed": "Verilerinizi dışa aktarırken bir şeyler başarısız oldu, çok üzgünüz. Bize ulaşabilir ve verilerinizin bir kopyasını team@freestuffbot.xyz üzerinden manuel olarak talep edebilirsiniz - Lütfen sunucu ID'sini E-postaya ekleyin. Teşekkürler.",
@@ -1098,22 +1098,22 @@
   "settings_locked_premium_2": "**Bu bir FreeStuff Premium özelliğidir.**\nDaha fazla bilgi için aşağıdaki düğmeye tıklayın:",
 
   // Active Notifications
-  "settings_main_active_notifications_1": "",
+  "settings_main_active_notifications_1": "Aktif Bildirimler",
 
   // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "",
+  "settings_main_active_notifications_2": "Şu anda {list} {dash} için bildirimler alıyorsunuz Ayarları değiştirmek için aşağıdaki mavi düğmeleri tıklayın.",
 
   // Click to add a news source
-  "settings_main_add_first_source_placeholder": "",
+  "settings_main_add_first_source_placeholder": "Haber kaynakları eklemek için tıklayın",
 
   // You are subscribed to everything!
-  "settings_main_add_sources_empty_1": "",
+  "settings_main_add_sources_empty_1": "Her şeye abone oldunuz!",
 
   // There's nothing else you can be notified about currently.
-  "settings_main_add_sources_empty_2": "",
+  "settings_main_add_sources_empty_2": "Şu anda bilgilendirilebileceğiniz başka bir şey yok.",
 
   // Click to add new sources
-  "settings_main_add_sources_placeholder": "",
+  "settings_main_add_sources_placeholder": "Haber kaynağı eklemek için tıklayın",
 
   // Change channel
   "settings_main_btn_channel_change": "Kanalı değiştir",
@@ -1131,7 +1131,7 @@
   "settings_main_btn_general": "Genel Ayarlar",
 
   // Need help?
-  "settings_main_btn_help": "",
+  "settings_main_btn_help": "Yardıma mı ihtiyacınız var?",
 
   // Advanced
   "settings_main_btn_more": "Gelişmiş",
@@ -1146,31 +1146,31 @@
   "settings_main_btn_role_set": "Bir rol etiketle",
 
   // Need help?
-  "settings_main_help_1": "",
+  "settings_main_help_1": "Yardıma mı ihtiyacınız var?",
 
   // Read the guide
-  "settings_main_help_solution_guide_1": "",
+  "settings_main_help_solution_guide_1": "Rehberi okuyun",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "",
+  "settings_main_help_solution_guide_2": "Tüm kurulum boyunca size yol gösterecek ve yol boyunca her şeyi açıklayacak şekilde hazırlanmış bir web sitemiz var. Kaybolursanız lütfen bakın!",
 
   // Join our support server
-  "settings_main_help_solution_server_1": "",
+  "settings_main_help_solution_server_1": "Destek sunucumuza katılın",
 
   // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "",
+  "settings_main_help_solution_server_2": "Rehber sana yardımcı olmadı mı? Size yardımcı olacak ve tüm sorularınızı yanıtlayacak bir destek sunucumuz var. İçeri girmekten çekinmeyin!",
 
   // Tl;dr
-  "settings_main_help_solution_tldr_1": "",
+  "settings_main_help_solution_tldr_1": "Özet",
 
   // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
-  "settings_main_help_solution_tldr_2": "",
+  "settings_main_help_solution_tldr_2": "1. Yukarıdaki `{text}` seçeneğini tıklayın\n2. Bir kaynak seçin, istediğiniz herhangi biri olabilir. {premium} sahibi olanlar FreeStuff Premium'a ihtiyaç duyar, **diğerlerinin ihtiyacı yoktur**\n3. Açılan sayfada botun gönderi paylaşacağı kanalı seçin\n4. Bitti!",
 
   // Suggested for you
-  "settings_main_suggested_categories_1": "",
+  "settings_main_suggested_categories_1": "Sizin için önerildi",
 
   // {promo} {dash} Select from the list below to learn more!
-  "settings_main_suggested_categories_2": "",
+  "settings_main_suggested_categories_2": "{promo} {dash} Daha fazla bilgi edinmek için aşağıdaki listeden seçim yapın!",
 
   // Settings
   "settings_main_ui_1": "Ayarlar",
@@ -1206,16 +1206,16 @@
   "settings_main_ui_2_regular": "Selam! \n\nBir ayar bulamıyor musunuz? Botu doğru şekilde yapılandırmak için yardıma mı ihtiyacınız var? Veya başka sorularınız mı var? Her şeyde size yol gösteren [Kılavuz için buraya tıklayın]({guide}) veya kişisel yardım için alternatif olarak [Destek Sunucumuza katılın]({invite}).",
 
   // Welcome to FreeStuff!\n\nIf you want to get **automatic notifications** for **free games**, you need to **add** at least **one source** below. You can always come back later and add or remove more sources.
-  "settings_main_welcome": "",
+  "settings_main_welcome": "FreeStuff'a hoş geldiniz!\n\n**Ücretsiz oyunlar** için **otomatik bildirimler** almak istiyorsanız, aşağıya en az **bir kaynak** eklemeniz gerekir**. İstediğiniz zaman daha sonra tekrar gelip daha fazla kaynak ekleyebilir veya kaldırabilirsiniz.",
 
   // Pick a type of notification from the list below to get started!
-  "settings_main_welcome_extra": "",
+  "settings_main_welcome_extra": "Başlamak için aşağıdaki listeden bir bildirim türü seçin!",
 
   // With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
-  "settings_more_beta_description": "",
+  "settings_more_beta_description": "Beta etkinleştirildiğinde güncellemeleri ve yeni özellikleri erkenden alabilirsiniz. Bunun kararsız veya deneysel özellikler ve güncellemeler de içerebileceğini unutmayın. Ayrıca, eğer kaydolursanız ara sıra geri bildirimde bulunmanız da istenebilir.",
 
   // Beta
-  "settings_more_beta_name": "",
+  "settings_more_beta_name": "Beta",
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "Beta sürümünden ayrıl",
@@ -1230,25 +1230,25 @@
   "settings_more_beta_on_state": "Beta sürümüne katıldınız!",
 
   // When Boring Mode is enabled you are opted out from april fools events and things might be more dull in general.
-  "settings_more_boringmode_description": "",
+  "settings_more_boringmode_description": "Sıkıcı Mod etkinleştirildiğinde, 1 Nisan şakası etkinliklerinin dışında kalırsınız ve genel olarak işler daha sıkıcı olabilir.",
 
   // Boring Mode
-  "settings_more_boringmode_name": "",
+  "settings_more_boringmode_name": "Sıkıcı Mod",
 
   // Disable Boring Mode
-  "settings_more_boringmode_off_prompt": "",
+  "settings_more_boringmode_off_prompt": "Sıkıcı Modu Devre Dışı Bırak",
 
   // Boring Mode is off
-  "settings_more_boringmode_off_state": "",
+  "settings_more_boringmode_off_state": "Sıkıcı Mod Devre Dışı Bırakıldı",
 
   // Enable Boring Mode
-  "settings_more_boringmode_on_prompt": "",
+  "settings_more_boringmode_on_prompt": "Sıkıcı Modu Etkinleştir",
 
   // Boring Mode is on
-  "settings_more_boringmode_on_state": "",
+  "settings_more_boringmode_on_state": "Sıkıcı Mod Etkinleştirildi",
 
   // Show Debug Info
-  "settings_more_btn_debug": "",
+  "settings_more_btn_debug": "Hata Ayıklama Bilgisini Göster",
 
   // View Server Data
   "settings_more_btn_guilddata": "Sunucu Verisini Görüntüle",
@@ -1260,7 +1260,7 @@
   "settings_more_btn_test": "Test Mesajı Gönder",
 
   // Your Data
-  "settings_more_data_label": "",
+  "settings_more_data_label": "Verileriniz",
 
   // Mysterious Button
   "settings_more_mysterious_button": "Gizemli Düğme",
@@ -1311,40 +1311,40 @@
   "settings_sub_btn_more": "Daha Fazlası",
 
   // Oopsie woopsie!
-  "settings_sub_help_solution_premium_locked_1": "",
+  "settings_sub_help_solution_premium_locked_1": "Opps ahhh!",
 
   // {name} is only available to FreeStuff Premium users. You can either subscribe to FreeStuff Premium to receive notifications for {name} or **click the back button and pick a different source**. There are many free ones available!
-  "settings_sub_help_solution_premium_locked_2": "",
+  "settings_sub_help_solution_premium_locked_2": "{name} yalnızca FreeStuff Premium kullanıcıları tarafından kullanılabilir. {name} ile ilgili bildirimler almak için FreeStuff Premium'a abone olabilirsiniz veya **geri düğmesini tıklayıp farklı bir kaynak seçebilirsiniz**. Çok sayıda ücretsiz olanı var!",
 
   // Tl;dr
-  "settings_sub_help_solution_tldr_1": "",
+  "settings_sub_help_solution_tldr_1": "Özet",
 
   // 1. Click on the dropdown menu above\n2. Select a channel for the bot to send notifications to\n3. And that's it, you're done! You will now receive automatic notifications!\n4. Optional: Click on the buttons above to customize things
-  "settings_sub_help_solution_tldr_2": "",
+  "settings_sub_help_solution_tldr_2": "1. Yukarıdaki açılır menüyü tıklayın\n2. Botun bildirim göndereceği kanalı seçin\n3. İşte bu kadar, işiniz bitti! Artık otomatik bildirimler alacaksınız!\n4. İsteğe bağlı: Ayarları özelleştirmek için yukarıdaki düğmelere tıklayın",
 
   // {subscription} is a premium subscription. If you want to receive news from this category [click here for more info.]({website})
   "settings_subscription_locked_premium": "{subscription} premium bir aboneliktir. Bu kategoriden haber almak istiyorsanız [daha fazla bilgi için buraya tıklayın]({website})",
 
   // More
-  "settings_subscription_more_1": "",
+  "settings_subscription_more_1": "Daha fazla",
 
   // Resend Notifications
-  "settings_subscription_more_resend_1": "",
+  "settings_subscription_more_resend_1": "Bildirimleri Tekrar Gönder",
 
   // You can re-send a message for all offers in that category that are still valid. Accidentally deleted a message? Changed settings? Or just want the same notification twice? This is for you!
-  "settings_subscription_more_resend_2": "",
+  "settings_subscription_more_resend_2": "O kategoride geçerli olan tüm teklifler için tekrar mesaj gönderebilirsiniz. Yanlışlıkla bir mesajı mı sildiniz? Ayarlar mı değiştirildi? Veya aynı bildirimi iki kez mi istiyorsunuz? Bu sizin için!",
 
   // Resend
-  "settings_subscription_more_resend_btn": "",
+  "settings_subscription_more_resend_btn": "Tekrar Gönder",
 
   // Test Message
-  "settings_subscription_more_test_1": "",
+  "settings_subscription_more_test_1": "Test Mesajı",
 
   // You can send a test message with all the options you've configured. Use this to make 100% sure that everything works. Be aware that this might ping people, if set up to do so.
-  "settings_subscription_more_test_2": "",
+  "settings_subscription_more_test_2": "Yapılandırdığınız tüm seçenekleri içeren bir test mesajı gönderebilirsiniz. Her şeyin çalıştığından %100 emin olmak için bunu kullanın. Bunun, eğer ayarlanmışsa, insanlara ping atabileceğini unutmayın.",
 
   // Send Test
-  "settings_subscription_more_test_btn": "",
+  "settings_subscription_more_test_btn": "Testi Gönder",
 
   // More
   "settings_subscription_more_ui_1": "Daha Fazlası",
@@ -1383,82 +1383,82 @@
   "slash_command_source": "{user} adlı kullanıcı {command} komutunu kullandı",
 
   // Gamedev Assets
-  "subscription_assets_name": "",
+  "subscription_assets_name": "Oyun Geliştirici Assetleri",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
-  "subscription_debug_promo": "",
+  "subscription_debug_promo": "Uhhhh uhmmm uhhh uhhhhhhhhhmmmuhhhhhh evethh uhhhhhh hayır.",
 
   // Sign up to get notified about any games or other content newly added to Game Pass. You require a Game Pass subscription to make use of these offers.\nYou can filter by price and quality.
   "subscription_gamepass_description": "Bu abonelik size Game Pass oyun paketine yeni eklenen tüm oyunları gösterecektir. Bu oyunları teklif sürdüğü sürece ücretsiz oynamak için Game Pass aboneliği gerekir.\nFiyat ve kaliteye göre filtreleme yapabilirsiniz.",
 
   // New arrivals on Xbox Game Pass.
-  "subscription_gamepass_hint": "",
+  "subscription_gamepass_hint": "Xbox Game Pass'e yeni gelenler.",
 
   // Game Pass
   "subscription_gamepass_name": "Game Pass",
 
   // Game pass users, we've got you! Check out {name} to receive all new arrivals directly in Discord!
-  "subscription_gamepass_promo": "",
+  "subscription_gamepass_promo": "Game Pass kullanıcıları, yanınızdayız! Tüm yeni gelenleri doğrudan Discord'dan almak için {name}'e göz atın!",
 
   // Sign up to get a notification when any game gets a 100% discount for a limited amount of time. This means you can get them for free and even keep them after the sale is over. Nothing to lose.\nYou can filter by price, platform and quality.
   "subscription_keep_description": "Bu abonelik size sınırlı bir süre için %100 indirime sahip oyunları gösterecektir. İndirim bittikten sonra bu oyunları elinizde tutabilirsiniz.\nFiyat, platform ve kaliteye göre filtreleme yapabilirsiniz.",
 
   // Games with a temporary 100% discount.
-  "subscription_keep_hint": "",
+  "subscription_keep_hint": "Geçici olarak %100 indirimli oyunlar.",
 
   // 100% Discount
   "subscription_keep_name": "%100 İndirimli",
 
   // {name} is a must have! Receive notifications for regular, paid games at a temporary 100% discount! Claim in time and keep them forever!
-  "subscription_keep_promo": "",
+  "subscription_keep_promo": "{name} mutlaka sahip olunması gereken bir şey! Normal, ücretli oyunlar için geçici %100 indirimle bildirim alın! Zamanında talep edin ve onları sonsuza kadar sahip olun!",
 
   // Are you into mobile gaming? Did you know there's free games for you too?
-  "subscription_mobile_description": "",
+  "subscription_mobile_description": "Mobil oyunlara mı meraklısınız? Sizin için de ücretsiz oyunlar olduğunu biliyor muydunuz?",
 
   // Mobile games with a 100% discount.
-  "subscription_mobile_hint": "",
+  "subscription_mobile_hint": "%100 indirimli mobil oyunlar.",
 
   // Mobile Games
-  "subscription_mobile_name": "",
+  "subscription_mobile_name": "Mobil Oyunlar",
 
   // Do you own a phone? If so, {name} has you covered with temporary 100% discounts on mobile games!
-  "subscription_mobile_promo": "",
+  "subscription_mobile_promo": "Telefonunuz var mı? Öyleyse {name}, mobil oyunlarda geçici %100 indirimden yararlanabilirsiniz!",
 
   // Big news. Big releases. Big offers. Never ads or paid posts.\nSubscribe to get a hand-curated selection of news and big things happening.
-  "subscription_news_description": "",
+  "subscription_news_description": "Büyük haber. Büyük sürümler. Büyük fırsatlar. Hiçbir zaman reklam veya ücretli gönderiler kullanmayın.\nÖnceden seçilmiş haberler ve gerçekleşen önemli olaylardan haberdar olmak için abone olun.",
 
   // Big news from the gaming world.
-  "subscription_news_hint": "",
+  "subscription_news_hint": "Oyun dünyasından önemli haberler.",
 
   // Gaming News
-  "subscription_news_name": "",
+  "subscription_news_name": "Oyun Haberleri",
 
   // Do you regularly miss out on big things happening? Check out {name} where the FreeStuff team lets you know when GTA6 is delayed again or when Fortnite is deleted.
-  "subscription_news_promo": "",
+  "subscription_news_promo": "Büyük olayları düzenli olarak kaçırıyor musunuz? FreeStuff ekibinin GTA6'nın tekrar ertelendiğini veya Fortnite'ın silindiğini size bildirdiği {name} adresine göz atın.",
 
   // Sign up to see all sorts of other offers that are available at a temporary 100% discount. This means DLCs, Addons, Ingame Content, Store Items or something else entirely, but always free to claim and keep forever.\nYou can filter by price, platform and product type.
   "subscription_other_description": "Bu abonelik size sınırlı bir süre için %100 indirimli olarak sunulan her türlü diğer teklifi gösterecektir. Bu genellikle oyunları içermez, ancak DLC'ler gibi diğer yazılımları veya oyunla ilgili olmayan öğeleri içerebilir.\nFiyat, platform ve ürün türüne göre filtreleme yapabilirsiniz.",
 
   // DLCs, Addons, Ingame Content & more at 100% off.
-  "subscription_other_hint": "",
+  "subscription_other_hint": "DLC'ler, Eklentiler, Oyun İçi İçerikler ve daha fazlası %100 indirimli.",
 
   // DLCs & More
   "subscription_other_name": "DLC Paketleri ve Daha Fazlası",
 
   // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
-  "subscription_other_promo": "",
+  "subscription_other_promo": "Bildiğiniz ve sevdiğiniz yerlerden %100 indirimli DLC'ler, Eklentiler veya Oyun İçi İçerikler hakkında haberler almak için {name}'e göz atın!",
 
   // Sign up to get notified about any games or other content newly added to Prime Gaming. You require a Prime Gaming subscription to make use of these offers. \nYou can filter by type, price and quality.
   "subscription_prime_description": "Bu abonelik size Prime Gaming oyun paketine yeni eklenen tüm oyunları gösterecektir. Bu kategorideki oyunları edinmek için Prime Gaming aboneliğine ihtiyacınız vardır. Teklifin süresi dolduktan sonra bunları saklayabilirsiniz.\nFiyat ve kaliteye göre filtreleme yapabilirsiniz.",
 
   // New arrivals on Prime Gaming.
-  "subscription_prime_hint": "",
+  "subscription_prime_hint": "Prime Gaming'e yeni gelenler.",
 
   // Prime Gaming
   "subscription_prime_name": "Prime Gaming",
 
   // Got an Amazon Prime Gaming subscription or thinking of getting one? With our {name} notifications you'll stay ahead and never miss out!
-  "subscription_prime_promo": "",
+  "subscription_prime_promo": "Amazon Prime Gaming aboneliğiniz var mı veya almayı mı düşünüyorsunuz? {name} bildirimlerimiz sayesinde bir adım önde olacak ve hiçbir fırsatı kaçıramayacaksınız!",
 
   // Prime Gaming: Games
   "subscription_primegames_name": "Prime Gaming: Oyunları",
@@ -1470,13 +1470,13 @@
   "subscription_timed_description": "Bu abonelik size sınırlı bir süre için ücretsiz olarak deneyebileceğiniz ve oynayabileceğiniz oyunları gösterecektir. Süre bittikten sonra bu oyunları tutamazsınız ve oynamaya devam etmek için satın almanız gerekir.\nFiyat, platform ve kaliteye göre filtreleme yapabilirsiniz.",
 
   // Games that are temporarily free to play.
-  "subscription_timed_hint": "",
+  "subscription_timed_hint": "Geçici olarak ücretsiz olarak oynanabilen oyunlar.",
 
   // Free Weekend
   "subscription_timed_name": "Hafta Sonu Ücretsiz",
 
   // Into exploring new games? {name} got you covered, with news about games that are temporarily free to play, usually for a couple of days.
-  "subscription_timed_promo": "",
+  "subscription_timed_promo": "Yeni oyunlar keşfetmeye mi başladınız? {name}, genellikle birkaç gün boyunca oynaması geçici olarak ücretsiz olan oyunlarla ilgili haberlerle sizi bilgilendirdi.",
 
   // Terms of Service
   "terms_of_service": "Kullanım Şartları",
@@ -1569,7 +1569,7 @@
   "translation_by": "Türkçe Tercümanlar:",
 
   // Maanex
-  "translators": "Bae#1000, erensi, hhhhh_ckr, mahirsn, bydexter",
+  "translators": "Bae#1000, erensi, Arcdashckr, mahirsn, bydexter",
 
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
   "webhook_create_auditlog_reason": "FreeStuff, duyuruları büyük ölçekte yayınlamak için Webhook'ları kullanıyor. Lütfen bu webhook'u kaldırmayın.",
@@ -1581,7 +1581,7 @@
   "webhook_migration_failed_missing_permissions_2": "Görünüşe göre \"Webhook'ları Yönet\" iznine sahip değilim. Lütfen bana bu izni verin ve tekrar deneyin!",
 
   // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "",
+  "webhook_migration_failed_too_many_hooks_1": "Oopsie daisy!",
 
   // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
   "webhook_migration_failed_too_many_hooks_2": "Görünüşe göre bu kanalda zaten birkaç Webhook var. Maalesef ki kanal başına 10 Webhook sınırı vardır, bu yüzden FreeStuff'ın yeni bir tane oluşturması için bunlardan birini silin.",

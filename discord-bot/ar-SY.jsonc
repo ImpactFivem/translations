@@ -42,7 +42,7 @@
   "announcement_price_keep": "",
 
   // {prices} until {date}
-  "announcement_price_keep_until": "",
+  "announcement_price_keep_until": "{prices} حتى {date}",
 
   // {prices}
   "announcement_price_other": "",

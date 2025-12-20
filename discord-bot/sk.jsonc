@@ -3,7 +3,7 @@
   "announcement_button_text": "Získaj zadarmo",
 
   // via {website}
-  "announcement_footer": "via {website}",
+  "announcement_footer": "cez {website}",
 
   // This is a preview message
   "announcement_footer_test": "Vyzerá to dobre? Ak nie, napíš: @FreeStuff settings",
@@ -54,7 +54,7 @@
   "announcement_price_prime": "Získaj **zadarmo**",
 
   // Claim for **Free** until {date}
-  "announcement_price_prime_until": "Získiaj **zadarmo** do {date}",
+  "announcement_price_prime_until": "Získaj **zadarmo** do {date}",
 
   // **Free to play**
   "announcement_price_timed": "**Hraj zadarmo**",
@@ -141,7 +141,7 @@
   "cmd_error_fixable_1": "Vyskytla sa nečakaná chyba!",
 
   // Can you please try that again? If this message keeps appearing please wait a bit or [reach out to our support team]({discordInvite}), thanks.
-  "cmd_error_fixable_2": "Môžeš to skúsiť znovu? Ak sa táto správa stále zobrazuje [vyhľadaj náš support]({discordInvite}), ďakujeme.",
+  "cmd_error_fixable_2": "Môžeš to skúsiť znovu? Ak sa táto správa stále zobrazuje [vyhľadaj náš support team]({discordInvite}), ďakujeme.",
 
   // An error occurred!
   "cmd_error_readd_1": "Vyskytla sa chyba!",
@@ -153,64 +153,64 @@
   "cmd_free_ends_soon": "**Čoskoro skončia:**",
 
   // (Ends soon!)
-  "cmd_free_ends_soon2": "",
+  "cmd_free_ends_soon2": "(Čoskoro končí!)",
 
   // None :(
   "cmd_free_no_freebies": "Žiadne :(",
 
   // Nothing free right now :(
-  "cmd_free_no_freebies2": "Teraz nieje nič zadarmo :(",
+  "cmd_free_no_freebies2": "Teraz nie je nič zadarmo :(",
 
   // These games are currently free:
   "cmd_free_title": "Tieto hry sú momentálne zadarmo:",
 
   // Free on Epic Games Store
-  "cmd_free_title_epic": "",
+  "cmd_free_title_epic": "Zadarmo v Epic Games Store",
 
   // Free on Fab
-  "cmd_free_title_fab": "",
+  "cmd_free_title_fab": "Zadarmo na Fab",
 
   // Currently on Xbox Game Pass
-  "cmd_free_title_gamepass": "Momentálne na Game Pass",
+  "cmd_free_title_gamepass": "Momentálne na Xbox Game Pass",
 
   // Free on GOG
-  "cmd_free_title_gog": "",
+  "cmd_free_title_gog": "Zadarmo na GOG",
 
   // Free on Google Play Store
-  "cmd_free_title_gplay": "",
+  "cmd_free_title_gplay": "Zadarmo na Google Play Store",
 
   // Free on Humble Bundle
-  "cmd_free_title_humble": "",
+  "cmd_free_title_humble": "Zadarmo na Humble Bundle",
 
   // Free on itch.io
-  "cmd_free_title_itch": "",
+  "cmd_free_title_itch": "Zadarmo na itch.io",
 
   // Currently free to keep (100% off)
-  "cmd_free_title_keep": "",
+  "cmd_free_title_keep": "V súčasnosti zadarmo (100 % zľava)",
 
   // Free on Origin
-  "cmd_free_title_origin": "",
+  "cmd_free_title_origin": "Zadarmo na Origin",
 
   // Free on other stores
-  "cmd_free_title_other": "",
+  "cmd_free_title_other": "Zadarmo v iných obchodoch",
 
   // Currently on Prime Gaming
-  "cmd_free_title_prime": "",
+  "cmd_free_title_prime": "Aktuálne na Prime Gaming",
 
   // Prime Gaming: Games
-  "cmd_free_title_primegames": "",
+  "cmd_free_title_primegames": "Prime Gaming: Hry",
 
   // Prime Gaming: Loot
-  "cmd_free_title_primeloot": "Prime Hranie: Korisť",
+  "cmd_free_title_primeloot": "Prime Gaming: Korisť",
 
   // Free on Steam
-  "cmd_free_title_steam": "",
+  "cmd_free_title_steam": "Zadarmo na Steame",
 
   // Currently free to play
   "cmd_free_title_timed": "Momentálne zadarmo na hranie",
 
   // Free on Ubisoft
-  "cmd_free_title_ubi": "",
+  "cmd_free_title_ubi": "Zadarmo na Ubisoft",
 
   // until
   "cmd_free_until": "do",
@@ -234,10 +234,10 @@
   "cmd_on_cooldown_2": "Tento príkaz má {time} sekundový cooldown, počkaj chvíľu!",
 
   // Now that's a twist!
-  "cmd_resend_all_filtered_out_1": "",
+  "cmd_resend_all_filtered_out_1": "To je ale zvrat!",
 
   // There are games free, but your filter settings do not allow a single one of them to be announced! If you did not intend this, check your filter settings again.
-  "cmd_resend_all_filtered_out_2": "",
+  "cmd_resend_all_filtered_out_2": "Existujú hry zadarmo, ale vaše nastavenia filtrov neumožňujú, aby bola oznámená ani jedna z nich! Ak to nebolo vaším zámerom, skontrolujte znovu nastavenia filtrov.",
 
   // The webhook in {channel} is broken.
   "cmd_resend_invalid_webhook_1": "",
@@ -246,10 +246,10 @@
   "cmd_resend_invalid_webhook_2": "To znie strašidelne. Aby si opravil túto chybu, skús zmeniť kanál na niektorý iný a potom naspäť na {channel}. Ak to stále nebude fungovať, prosím kontaktuj podporu!",
 
   // Whoops!
-  "cmd_resend_nosend_1": "",
+  "cmd_resend_nosend_1": "Ups!",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_resend_nosend_2": "",
+  "cmd_resend_nosend_2": "Vyzerá to, že nemám povolenie posielať správy v {channel}!",
 
   // Uh oh!
   "cmd_resend_nothing_free_1": "uuu!",
@@ -291,16 +291,16 @@
   "cmd_test_nosee_1": "Ups!",
 
   // Looks like I don't have the permission to see the channel {channel}!
-  "cmd_test_nosee_2": "Vyzerá to tak, že nemám právo vidieť kanál {channel}!",
+  "cmd_test_nosee_2": "Vyzerá to, že nemám právo vidieť kanál {channel}!",
 
   // Whoops!
   "cmd_test_nosend_1": "Ups!",
 
   // Looks like I don't have the permission to send messages in {channel}!
-  "cmd_test_nosend_2": "Vyzerá to tak, že nemám povolenie posielať správy v kanáli {channel}!",
+  "cmd_test_nosend_2": "Vyzerá to, že nemám povolenie posielať správy v kanáli {channel}!",
 
   // Aaaaaand there it goes!
-  "cmd_test_success_1": "",
+  "cmd_test_success_1": "A teraz to prichádza!",
 
   // Check out {channel}!
   "cmd_test_success_2": "Pozri {channel}!",
@@ -327,7 +327,7 @@
   "color_none": "Bez farby",
 
   // Pink
-  "color_pink": "Rúžová",
+  "color_pink": "Ružová",
 
   // Red
   "color_red": "Červená",
@@ -351,52 +351,52 @@
   "expressbutton_label": "",
 
   // {next}
-  "fluid_list_delimiter_first": "",
+  "fluid_list_delimiter_first": "{next}",
 
   // {prev}, and {next}
-  "fluid_list_delimiter_last": "",
+  "fluid_list_delimiter_last": "{prev}, a {next}",
 
   // {prev}, {next}
-  "fluid_list_delimiter_middle": "",
+  "fluid_list_delimiter_middle": "{prev}, {next}",
 
   // {prev} and {next}
-  "fluid_list_delimiter_only": "",
+  "fluid_list_delimiter_only": "{prev} a {next}",
 
   // ONLY ON APRIL FIRST
-  "free_recommendation_april_fools": "",
+  "free_recommendation_april_fools": "LEN PRVÉHO APRÍLA",
 
   // Free on {store}!
-  "free_recommendation_by_store": "",
+  "free_recommendation_by_store": "Zadarmo na {store}!",
 
   // Interested in {tag}?
-  "free_recommendation_by_tag": "",
+  "free_recommendation_by_tag": "Zaujíma vás {tag}?",
 
   // Expires in {hours, plural, =1 {1 hour} other {# hours} }!
-  "free_recommendation_expires_hours": "",
+  "free_recommendation_expires_hours": "Platnosť vyprší za {hours, plural, =1 {1 hour} other {# hours} }!",
 
   // Expires in {minutes, plural, =1 {1 minute} other {# minutes} }!
-  "free_recommendation_expires_minutes": "",
+  "free_recommendation_expires_minutes": "Platnosť vyprší za {minutes, plural, =1 {1 minute} other {# minutes} }!",
 
   // Over 95% positive reviews:
-  "free_recommendation_extremely_positive": "",
+  "free_recommendation_extremely_positive": "Viac ako 95 % kladných recenzií:",
 
   // Check this out!
-  "free_recommendation_generic_1": "",
+  "free_recommendation_generic_1": "Pozri sa na toto!",
 
   // You might enjoy:
-  "free_recommendation_generic_2": "",
+  "free_recommendation_generic_2": "Mohlo by sa vám páčiť:",
 
   // In case you missed it...
-  "free_recommendation_generic_3": "",
+  "free_recommendation_generic_3": "Ak ste to premeškali...",
 
   // Well received:
   "free_recommendation_positive": "",
 
   // FreeStuff team recommends:
-  "free_recommendation_staff_pick": "",
+  "free_recommendation_staff_pick": "FreeStuff Bot tím odporúča:",
 
   // Popular!
-  "free_recommendation_very_positive": "",
+  "free_recommendation_very_positive": "Populárne!",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Poskytovateľ tretích strán",
@@ -414,10 +414,10 @@
   "generic_cancelled": "Zrušené",
 
   // Close
-  "generic_close": "",
+  "generic_close": "Zatvoriť",
 
   // Continue
-  "generic_continue": "Pokračuj",
+  "generic_continue": "Pokračovať",
 
   // Delete
   "generic_delete": "Vymazať",
@@ -483,10 +483,10 @@
   "lang_name_en": "slovak",
 
   // Stop!
-  "missing_setting_permissions_1": "",
+  "missing_setting_permissions_1": "Stop!",
 
   // You are not allowed to change settings for this server!\nGet someone with `Manage Server` or `Administrator` permissions and we can talk.
-  "missing_setting_permissions_2": "",
+  "missing_setting_permissions_2": "Nemáte povolenie meniť nastavenia tohto servera!\nObráťte sa na niekoho s oprávneniami „Spravovať server“ alebo „Správca“ a potom sa môžeme porozprávať.",
 
   // Silence
   "mysterious_modal_no_response_1": "Ticho",
@@ -519,7 +519,7 @@
   "mysterious_modal_prompt_5": "Si pripravený!",
 
   // Shout into the forest!
-  "mysterious_modal_title": "",
+  "mysterious_modal_title": "Zakrič do lesa!",
 
   // Open in browser
   "open_in_browser": "Otvor v prehliadači",
@@ -543,7 +543,7 @@
   "page_invite": "Pozvi bota",
 
   // Bot Settings
-  "page_settings": "Botove nastavenia",
+  "page_settings": "Nastavenia bota",
 
   // Support
   "page_support": "Podpora",
@@ -555,16 +555,16 @@
   "permission_view_channel": "Zobraziť kanál",
 
   // About Premium
-  "premium_promo_button": "",
+  "premium_promo_button": "Informácie o Premium",
 
   // No more manual clicking! With FreeStuff premium you can have the bot automatically publish every notification you receive in announcement channels!
   "premium_upsell_autopublish_description": "",
 
   // Get premium to use auto publish!
-  "premium_upsell_autopublish_title": "",
+  "premium_upsell_autopublish_title": "Získajte prémiové členstvo a využívajte automatické publikovanie!",
 
   // With FreeStuff premium you can have the bot automatically react to every notification you receive!
-  "premium_upsell_autoreact_description": "",
+  "premium_upsell_autoreact_description": "S prémiovou verziou FreeStuff môžete nastaviť, aby bot automaticky reagoval na každé oznámenie, ktoré dostanete!",
 
   // Get premium to use auto reactions!
   "premium_upsell_autoreact_title": "",
@@ -615,13 +615,13 @@
   "product_meta_flag_staff_pick": "FreeStuff Odporúčanie",
 
   // Third Party Provider
-  "product_meta_flag_thirdparty": "",
+  "product_meta_flag_thirdparty": "Poskytovateľ tretích strán",
 
   // Low Quality
   "product_meta_flag_trash": "Nízka Kvalita",
 
   // Refresh List
-  "refresh_channel_list": "",
+  "refresh_channel_list": "Obnoviť zoznam",
 
   // Click here to reload the channel list
   "refresh_channel_list_description": "",

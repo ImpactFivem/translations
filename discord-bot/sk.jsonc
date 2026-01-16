@@ -630,7 +630,7 @@
   "refresh_channel_list_title": "",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_channel_timeout": "",
+  "refresh_channel_timeout": "Spomaľ! Tento zoznam môžeš obnovovať len každých {interval} sekúnd!",
 
   // Channel list refreshed
   "refresh_channels_success": "",
@@ -639,10 +639,10 @@
   "refresh_channels_timeout": "Si až moc rýchly! Pre bezpečnostné dôvody dovoľujeme stlačenie tlačítka iba raz za {interval} sekúnd!",
 
   // Refresh List
-  "refresh_role_list": "",
+  "refresh_role_list": "Obnoviť zoznam",
 
   // Slow down! You can only reload this list every {interval} seconds!
-  "refresh_role_timeout": "",
+  "refresh_role_timeout": "Spomaľ! Tento zoznam môžeš obnovovať len každých {interval} sekúnd!",
 
   // Welcome to FreeStuff!
   "settings2_main_1_first_time": "Vitaj v FreeStuff!",
@@ -669,7 +669,7 @@
   "settings_botprofile_avatar_description": "",
 
   // This does not look like a url
-  "settings_botprofile_avatar_invalid_url_1": "",
+  "settings_botprofile_avatar_invalid_url_1": "Toto nevyzerá ako url",
 
   // Please make sure your image actually loads and the link starts with `http://` or `https://`
   "settings_botprofile_avatar_invalid_url_2": "",
@@ -771,7 +771,7 @@
   "settings_conf_ui_language_description": "",
 
   // Select Language
-  "settings_conf_ui_language_label": "",
+  "settings_conf_ui_language_label": "Zmeniť jazyk",
 
   // Disable Claim-All Button
   "settings_display_expressbutton_off_prompt": "",
@@ -786,7 +786,7 @@
   "settings_display_expressbutton_on_state": "",
 
   // More options
-  "settings_display_extra_label": "",
+  "settings_display_extra_label": "Viac možností",
 
   // Disable Auto Reaction
   "settings_display_reactions_off_prompt": "Vypnúť auto reakciu",
@@ -828,10 +828,10 @@
   "settings_filter_kinds_dlc_1": "",
 
   // Addons and other game extensions
-  "settings_filter_kinds_dlc_2": "",
+  "settings_filter_kinds_dlc_2": "Doplnky a ďalšie rozšírenia hry",
 
   // Games
-  "settings_filter_kinds_game_1": "",
+  "settings_filter_kinds_game_1": "Hry",
 
   // Well. Games. The thing you play.
   "settings_filter_kinds_game_2": "",
@@ -861,7 +861,7 @@
   "settings_filter_kinds_storeitem_2": "Veci ako steam point shop veci",
 
   // Send all games. Every. Single. One.
-  "settings_filter_price_class_desc_everything": "Posielaj všetky hry. Každú jednu jedinú.",
+  "settings_filter_price_class_desc_everything": "Posielaj všetky hry. Každú. Jednu. Jedinú.",
 
   // Only send games worth {price} or more
   "settings_filter_price_class_desc_generic": "Posielaj iba hry drahšie ako {price}",
@@ -882,13 +882,13 @@
   "settings_filter_trash_2": "",
 
   // Filter Settings
-  "settings_filter_ui_1": "Nastavenia filteru",
+  "settings_filter_ui_1": "Nastavenia filtru",
 
   // There are a lot of free games out there, some more interesting than others. In order to not flood your precious Discord server with spam we have some options for you to decide which games you like to see:
   "settings_filter_ui_2": "Je mnoho hier zadarmo, niektoré viac zaujímavé, než ostatné. Ak si nechceš zaplaviť svoj nádherný server spamom, máme nejaké možnosti, podľa ktorých by si si vybral/a, ktoré hry chceš vidieť:",
 
   // Read the guide
-  "settings_generic_help_solution_guide_1": "",
+  "settings_generic_help_solution_guide_1": "Prečítaj si návod",
 
   // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
   "settings_generic_help_solution_guide_2": "",
@@ -906,7 +906,7 @@
   "settings_guilddata_data_ready": "",
 
   // Delete Server Data
-  "settings_guilddata_delete_button": "Vymazanie serverových dát",
+  "settings_guilddata_delete_button": "Vymazanie dát servera",
 
   // Are you sure?
   "settings_guilddata_delete_dialogue_confirmation_1": "Si si istý?",
@@ -936,7 +936,7 @@
   "settings_guilddata_display_error": "ahh.. Teraz je to trochu trápne.. Nastala chyba pri exportovaní tvojich dát. Prosím [kontaktuj náš tím]({invite}), aby si získal/a svoje dáta.",
 
   // Download Data
-  "settings_guilddata_download": "StiahnuŤ dáta",
+  "settings_guilddata_download": "Stiahnuť dáta",
 
   // Okie dokie, data's coming in hot:
   "settings_guilddata_success_1": "Ouky douky, tvoje dáta sú na ceste:",
@@ -981,7 +981,7 @@
   "settings_main_btn_more": "Viac",
 
   // Notification Settings
-  "settings_main_btn_notifications": "",
+  "settings_main_btn_notifications": "Nastavenia notifikácií",
 
   // Tl;dr
   "settings_main_help_solution_tldr_1": "",
@@ -990,7 +990,7 @@
   "settings_main_help_solution_tldr_2": "",
 
   // Suggested for you
-  "settings_main_suggested_categories_1": "",
+  "settings_main_suggested_categories_1": "Odporúčané pre teba",
 
   // {promo} {dash} Select from the list below to learn more!
   "settings_main_suggested_categories_2": "",
@@ -1035,10 +1035,10 @@
   "settings_main_welcome_extra": "",
 
   // With beta enabled you to get updates and new features early. Be aware that this might also include unstable or experimental features and updates. You might also occasionally get asked for feedback if opted in.
-  "settings_more_beta_description": "",
+  "settings_more_beta_description": "S povolenou verziou beta získaš aktualizácie a nové funkcie skôr. Uvedom si, že to môže zahŕňať aj nestabilné alebo experimentálne funkcie a aktualizácie. Ak sa prihlásiš, môžeš byť občas požiadaný o spätnú väzbu.",
 
   // Beta
-  "settings_more_beta_name": "",
+  "settings_more_beta_name": "Beta",
 
   // Opt out of Beta
   "settings_more_beta_off_prompt": "Odhlásiť sa z bety",
@@ -1056,31 +1056,31 @@
   "settings_more_boringmode_description": "",
 
   // Boring Mode
-  "settings_more_boringmode_name": "",
+  "settings_more_boringmode_name": "Nudný Mód",
 
   // Disable Boring Mode
-  "settings_more_boringmode_off_prompt": "",
+  "settings_more_boringmode_off_prompt": "Vypnúť Nodný Mód",
 
   // Boring Mode is off
-  "settings_more_boringmode_off_state": "",
+  "settings_more_boringmode_off_state": "Nodný Mód je vypnutý",
 
   // Enable Boring Mode
-  "settings_more_boringmode_on_prompt": "",
+  "settings_more_boringmode_on_prompt": "Zapnúť Nodný Mód",
 
   // Boring Mode is on
-  "settings_more_boringmode_on_state": "",
+  "settings_more_boringmode_on_state": "Nodný Mód je zapnutý",
 
   // Show Debug Info
   "settings_more_btn_debug": "",
 
   // View Server Data
-  "settings_more_btn_guilddata": "Zobraz serverové dáta",
+  "settings_more_btn_guilddata": "Zobraz dáta servera",
 
   // Your Data
-  "settings_more_data_label": "",
+  "settings_more_data_label": "Tvoje dáta",
 
   // Mysterious Button
-  "settings_more_mysterious_button": "",
+  "settings_more_mysterious_button": "Záhadné tlačidlo",
 
   // Advanced Options
   "settings_more_ui_1": "Viac",
@@ -1140,7 +1140,7 @@
   "settings_subscription_locked_premium": "",
 
   // More
-  "settings_subscription_more_1": "",
+  "settings_subscription_more_1": "Viac",
 
   // Resend Notifications
   "settings_subscription_more_resend_1": "",
@@ -1191,7 +1191,7 @@
   "subscription_assets_name": "",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
-  "subscription_debug_promo": "",
+  "subscription_debug_promo": "Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh ááno uhhhhh nie.",
 
   // Sign up to get notified about any games or other content newly added to Game Pass. You require a Game Pass subscription to make use of these offers.\nYou can filter by price and quality.
   "subscription_gamepass_description": "",
@@ -1209,7 +1209,7 @@
   "subscription_keep_description": "",
 
   // Games with a temporary 100% discount.
-  "subscription_keep_hint": "",
+  "subscription_keep_hint": "Hry s dočasnou 100% zľavou.",
 
   // 100% Discount
   "subscription_keep_name": "100% Zľava",
@@ -1224,64 +1224,64 @@
   "subscription_mobile_hint": "",
 
   // Mobile Games
-  "subscription_mobile_name": "",
+  "subscription_mobile_name": "Mobilné hry",
 
   // Do you own a phone? If so, {name} has you covered with temporary 100% discounts on mobile games!
-  "subscription_mobile_promo": "",
+  "subscription_mobile_promo": "Máš telefón? Ak áno, {name} vám ponúka dočasné 100 % zľavy na mobilné hry!",
 
   // Big news. Big releases. Big offers. Never ads or paid posts.\nSubscribe to get a hand-curated selection of news and big things happening.
-  "subscription_news_description": "",
+  "subscription_news_description": "Veľké novinky. Veľké vydania. Veľké ponuky. Nikdy žiadne reklamy ani platené príspevky. Prihlás sa a získaj ručne vyberaný výber noviniek a dôležitých udalostí.",
 
   // Big news from the gaming world.
-  "subscription_news_hint": "",
+  "subscription_news_hint": "Veľké novinky zo herného sveta.",
 
   // Gaming News
-  "subscription_news_name": "",
+  "subscription_news_name": "Herné Novinky",
 
   // Do you regularly miss out on big things happening? Check out {name} where the FreeStuff team lets you know when GTA6 is delayed again or when Fortnite is deleted.
-  "subscription_news_promo": "",
+  "subscription_news_promo": "Pravidelne ti unikajú dôležité udalosti? Pozri sa na {name}, kde ti tím FreeStuff dá vedieť, keď sa GTA6 opäť odloží alebo keď Fortnite zmizne.",
 
   // Sign up to see all sorts of other offers that are available at a temporary 100% discount. This means DLCs, Addons, Ingame Content, Store Items or something else entirely, but always free to claim and keep forever.\nYou can filter by price, platform and product type.
-  "subscription_other_description": "",
+  "subscription_other_description": "Zaregistruj sa a získaj prístup k rôznym ponukám, ktoré sú dočasne k dispozícii so 100% zľavou. Ide o DLC, doplnky, obsah v hre, položky v obchode alebo niečo úplne iné, ale vždy zadarmo a navždy. Môžeš filtrovať podľa ceny, platformy a typu produktu.",
 
   // DLCs, Addons, Ingame Content & more at 100% off.
-  "subscription_other_hint": "",
+  "subscription_other_hint": "DLC, doplnky, obsah v hre a ďalšie produkty so 100% zľavou.",
 
   // DLCs & More
-  "subscription_other_name": "",
+  "subscription_other_name": "DLC a viac",
 
   // Check out {name} for news about any 100% discounted DLCs, Addons or Ingame Content from all the same places you know and love!
   "subscription_other_promo": "",
 
   // Sign up to get notified about any games or other content newly added to Prime Gaming. You require a Prime Gaming subscription to make use of these offers. \nYou can filter by type, price and quality.
-  "subscription_prime_description": "",
+  "subscription_prime_description": "Zaregistruj sa a dostávaj upozornenia o nových hrách a ďalšom obsahu pridanom do služby Prime Gaming. Na využívanie týchto ponúk potrebuješ predplatné služby Prime Gaming. \nMôžeš filtrovať podľa typu, ceny a kvality.",
 
   // New arrivals on Prime Gaming.
-  "subscription_prime_hint": "",
+  "subscription_prime_hint": "Novinky v Prime Gaming.",
 
   // Prime Gaming
-  "subscription_prime_name": "",
+  "subscription_prime_name": "Prime Gaming",
 
   // Got an Amazon Prime Gaming subscription or thinking of getting one? With our {name} notifications you'll stay ahead and never miss out!
-  "subscription_prime_promo": "",
+  "subscription_prime_promo": "Máš predplatné Amazon Prime Gaming alebo uvažuješ o jeho zakúpení? S našimi {name} upozorneniami budeš vždy o krok napred a nič ti neunikne!",
 
   // Prime Gaming: Games
-  "subscription_primegames_name": "",
+  "subscription_primegames_name": "Prime Gaming: Hry",
 
   // Prime Gaming: Loot
   "subscription_primeloot_name": "",
 
   // Sign up to receive notifications about games that you can try out and play for free for a limited amount of time. You cannot keep those games after the time is over and have to buy them to continue playing.\nYou can filter by price, platform and quality.
-  "subscription_timed_description": "",
+  "subscription_timed_description": "Prihlás sa a dostávaj upozornenia o hrách, ktoré môžeš vyskúšať a hrať zadarmo po obmedzenú dobu. Po uplynutí tejto doby si tieto hry nemôžeš ponechať a ak chceš pokračovať v hraní, musíš si ich zakúpiť. \nMôžeš filtrovať podľa ceny, platformy a kvality.",
 
   // Games that are temporarily free to play.
-  "subscription_timed_hint": "",
+  "subscription_timed_hint": "Hry, ktoré sú dočasne zadarmo.",
 
   // Free Weekend
   "subscription_timed_name": "Víkend zadarmo",
 
   // Into exploring new games? {name} got you covered, with news about games that are temporarily free to play, usually for a couple of days.
-  "subscription_timed_promo": "",
+  "subscription_timed_promo": "Chceš objavovať nové hry? {name} ti ponúka novinky o hrách, ktoré sú dočasne zadarmo, zvyčajne na pár dní.",
 
   // Terms of Service
   "terms_of_service": "Podmienky služby",
@@ -1302,7 +1302,7 @@
   "theme_four_desc": "Pre divných ľudí :l",
 
   // More info less images!
-  "theme_four_name": "Viac info, menej fotiek",
+  "theme_four_name": "Viac info, menej fotiek!",
 
   // If you need some context but don't like embeds
   "theme_nine_desc": "Keď nemáš rád odkazy, ale máš rad text <3",
@@ -1338,16 +1338,16 @@
   "theme_three_desc": "S malým opisom a hodnotením",
 
   // More info!
-  "theme_three_name": "Viac informácií",
+  "theme_three_name": "Viac informácií!",
 
   // If you don't like images
   "theme_two_desc": "Ak nemáš rad fotky",
 
   // No photos please!
-  "theme_two_name": "Téma bez fotiek",
+  "theme_two_name": "Bez fotiek, prosím!",
 
   // We send a message in your channel. That's all.
-  "thread_opt_a_description": "",
+  "thread_opt_a_description": "Posielame správu do tvojho kanálu. To je všetko.",
 
   // No threads
   "thread_opt_a_name": "",

@@ -26,6 +26,12 @@
   // Free Game!
   "announcement_header": "Ücretsiz Oyun!",
 
+  // {prices}
+  "announcement_price_assets": "",
+
+  // {prices} until {date}
+  "announcement_price_assets_until": "",
+
   // Claim for **Free**
   "announcement_price_gamepass": "**Ücretsiz** olarak alın",
 
@@ -43,6 +49,12 @@
 
   // {prices} until {date}
   "announcement_price_keep_until": "{date} tarihine kadar {prices}",
+
+  // **Free on mobile**
+  "announcement_price_mobile": "",
+
+  // **Free on mobile** until {date}
+  "announcement_price_mobile_until": "",
 
   // {prices}
   "announcement_price_other": "{prices}",
@@ -69,6 +81,18 @@
   "announcement_theme9": "**{name}** ücretsiz!\n<{url}>",
 
   // {names}
+  "announcement_thread_name_assets_multiple_below": "",
+
+  // {amount} gamedev assets for free!
+  "announcement_thread_name_assets_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_assets_single_below": "",
+
+  // Gamedev asset for free: {name}!
+  "announcement_thread_name_assets_single_outside": "",
+
+  // {names}
   "announcement_thread_name_gamepass_multiple_below": "{names}",
 
   // {amount} new games for Game Pass!
@@ -91,6 +115,18 @@
 
   // {name} is free!
   "announcement_thread_name_keep_single_outside": "{name} Ücretsiz",
+
+  // {names}
+  "announcement_thread_name_mobile_multiple_below": "",
+
+  // {amount} free games for mobile!
+  "announcement_thread_name_mobile_multiple_outside": "",
+
+  // {name}
+  "announcement_thread_name_mobile_single_below": "",
+
+  // Free mobile game: {name}!
+  "announcement_thread_name_mobile_single_outside": "",
 
   // {names}
   "announcement_thread_name_other_multiple_below": "{names}",
@@ -149,6 +185,9 @@
   // Try removing the bot from your server and adding it back in. If this does not help, [please join the support server]({discordInvite}).
   "cmd_error_readd_2": "Botu sunucunuzdan atın ve tekrar eklemeyi deneyin. Bu işe yaramazsa, [lütfen destek sunucusuna katılın]({discordInvite}).",
 
+  // + {count} more
+  "cmd_free_and_more": "",
+
   // **Ends soon:**
   "cmd_free_ends_soon": "**Yakında bitiyor:**",
 
@@ -163,6 +202,9 @@
 
   // These games are currently free:
   "cmd_free_title": "Bu oyunlar şu anda ücretsizdir:",
+
+  // Gamedev Assets (100% off)
+  "cmd_free_title_assets": "",
 
   // Free on Epic Games Store
   "cmd_free_title_epic": "Epic Games Store'da Ücretsiz",
@@ -187,6 +229,9 @@
 
   // Currently free to keep (100% off)
   "cmd_free_title_keep": "Şu anda ücretsiz (%100 indirimli)",
+
+  // Free Mobile Games
+  "cmd_free_title_mobile": "",
 
   // Free on Origin
   "cmd_free_title_origin": "Origin'de Ücretsiz",
@@ -338,39 +383,6 @@
   // Yellow
   "color_yellow": "Sarı",
 
-  // Lev (BGN)
-  "currency_bgn": "Leva (BGN)",
-
-  // Real (BRL)
-  "currency_brl": "Brezilya Reali (BRL)",
-
-  // Bitcoin (brrrr)
-  "currency_btc": "Bitcoin (brrrr)",
-
-  // Euro (EUR)
-  "currency_euro": "Euro (EUR)",
-
-  // Pounds (GBP)
-  "currency_gbp": "Pound (GBP)",
-
-  // Forint (HUF)
-  "currency_huf": "Macar Forinti (HUF)",
-
-  // Złoty (PLN)
-  "currency_pln": "Polonya Zloti (PLN)",
-
-  // before
-  "currency_sign_dollar_position": "after",
-
-  // before
-  "currency_sign_euro_position": "after",
-
-  // before
-  "currency_sign_position": "after",
-
-  // Dollar (USD)
-  "currency_usd": "Amerikan Doları (USD)",
-
   // en-US
   "date_format": "tr",
 
@@ -394,6 +406,51 @@
 
   // {prev} and {next}
   "fluid_list_delimiter_only": "{prev} ve {next}",
+
+  // Chose your interests and get a more personalized overview when running the `/free` command. Your changes here do not apply to notifications in this server.
+  "free_edit_preferences_description": "",
+
+  // Some stores and sources from the list below might not be available in every server.
+  "free_edit_preferences_disclaimer": "",
+
+  // Select things to hide
+  "free_edit_preferences_hide_cta": "",
+
+  // The items you select above will be hidden from your /free feed.
+  "free_edit_preferences_hide_description": "",
+
+  // Are there stores and sources you do not want to see?
+  "free_edit_preferences_hide_title": "",
+
+  // Pick a layout style
+  "free_edit_preferences_layout_cta": "",
+
+  // How do you want things to look like?
+  "free_edit_preferences_layout_title": "",
+
+  // Select your favorites
+  "free_edit_preferences_prefer_cta": "",
+
+  // We will show you these with higher priority in your /free feed.
+  "free_edit_preferences_prefer_description": "",
+
+  // Which stores and sources do you care about the most?
+  "free_edit_preferences_prefer_title": "",
+
+  // Your changes save automatically!
+  "free_edit_preferences_save_notice": "",
+
+  // /free preferences
+  "free_edit_preferences_title": "",
+
+  // Compact
+  "free_layout_compact_name": "",
+
+  // Cozy
+  "free_layout_cozy_name": "",
+
+  // Default
+  "free_layout_default_name": "",
 
   // ONLY ON APRIL FIRST
   "free_recommendation_april_fools": "SADECE 1 NİSAN'DA",
@@ -422,6 +479,18 @@
   // In case you missed it...
   "free_recommendation_generic_3": "Kaçırdıysanız...",
 
+  // Based on your preferences
+  "free_recommendation_personal_preference_high_1": "",
+
+  // Personal recommendation
+  "free_recommendation_personal_preference_high_2": "",
+
+  // Look at that!
+  "free_recommendation_personal_preference_highest_1": "",
+
+  // Oh damnnn
+  "free_recommendation_personal_preference_highest_2": "",
+
   // Well received:
   "free_recommendation_positive": "Hoş karşılanıyor:",
 
@@ -430,6 +499,12 @@
 
   // Popular!
   "free_recommendation_very_positive": "Popüler!",
+
+  // Nothing of interest for you... :/
+  "free_recommended_no_products": "",
+
+  // You have hidden some categories in your settings.
+  "free_recommended_no_products_hint": "",
 
   // Third Party Provider
   "game_meta_flag_thirdparty": "Üçüncü Taraf Sağlayıcı",
@@ -640,6 +715,84 @@
 
   // Privacy Policy
   "privacy_policy": "Gizlilik Politikası",
+
+  // Any formats
+  "product_kind_3d_model_description": "",
+
+  // 3D Models
+  "product_kind_3d_model_name": "",
+
+  // Digital artworks, illustrations and similar content
+  "product_kind_art_description": "",
+
+  // Art
+  "product_kind_art_name": "",
+
+  // Ambient, Music, Sound Effects, etc.
+  "product_kind_audio_description": "",
+
+  // Audio
+  "product_kind_audio_name": "",
+
+  // Ebooks, digital comics and similar content
+  "product_kind_book_description": "",
+
+  // Books
+  "product_kind_book_name": "",
+
+  // Collections of games, DLCs or other items
+  "product_kind_bundle_description": "",
+
+  // Show Bundles
+  "product_kind_bundle_name": "",
+
+  // Addons and other game extensions
+  "product_kind_dlc_description": "",
+
+  // Show DLCs
+  "product_kind_dlc_name": "",
+
+  // Well. Games. The thing you play.
+  "product_kind_game_description": "",
+
+  // Games
+  "product_kind_game_name": "",
+
+  // This is ingame content like skins, items, etc.
+  "product_kind_loot_description": "",
+
+  // Loot
+  "product_kind_loot_name": "",
+
+  // Original Soundtracks and other music
+  "product_kind_ost_description": "",
+
+  // OSTs
+  "product_kind_ost_name": "",
+
+  // Stuff that does not fit into the other categories
+  "product_kind_other_description": "",
+
+  // Show other content
+  "product_kind_other_name": "",
+
+  // Applications and other non-game programs
+  "product_kind_software_description": "",
+
+  // Software
+  "product_kind_software_name": "",
+
+  // Things like steam point shop items
+  "product_kind_storeitem_description": "",
+
+  // Show Store Items
+  "product_kind_storeitem_name": "",
+
+  // Material, Sprites, Decals, Brushes, HDRI, etc.
+  "product_kind_texture_description": "",
+
+  // Textures
+  "product_kind_texture_name": "",
 
   // Permanently Free
   "product_meta_flag_permanent": "Kalıcı Olarak Ücretsiz",
@@ -911,20 +1064,8 @@
   // Show bad quality games
   "settings_filter_trash_1": "Düşük kaliteli oyunları göster",
 
-  // By default we won't show you games with bad ratings or of gernal poor quality
+  // By default we won't show you games with bad ratings or of general poor quality
   "settings_filter_trash_2": "Varsayılan olarak size kötü derecelendirmelere sahip veya genel olarak düşük kalitede oyunlar göstermeyiz",
-
-  // Disable Bad Quality Games
-  "settings_filter_trash_off_prompt": "Düşük kaliteli Oyunları Kapat",
-
-  // Bad Quality Games Disabled
-  "settings_filter_trash_off_state": "Düşük kaliteli Oyunlar Kapalı",
-
-  // Enable Bad Quality Games
-  "settings_filter_trash_on_prompt": "Düşük kaliteli Oyunları Aç",
-
-  // Bad Quality Games Enabled
-  "settings_filter_trash_on_state": "Düşük kaliteli Oyunları Kapat",
 
   // Filter Settings
   "settings_filter_ui_1": "Filtreleme Ayarları",
@@ -998,26 +1139,14 @@
   // {language} by {translators}
   "settings_language_list_desc_generic": "{language} dilinin çevirmenleri: {translators}",
 
-  // Language Selection
-  "settings_language_ui_1": "Dil Seçimi",
-
-  // This language setting applies to your entire server, not to you personally!\n\nTo all translators currently working on this line of text, please just write something fun here. Greet your fellow countryman and countrywoman or something ;)
-  "settings_language_ui_2": "Bu ayar sadece senin için değil sunucudaki herkes için geçerlidir, ayrıca aramıza hoşgeldin :)",
-
-  // Oh no!
-  "settings_locked_premium_1": "Olamaz!",
-
-  // **This is a FreeStuff Premium feature.**\nClick the button below for more info:
-  "settings_locked_premium_2": "**Bu bir FreeStuff Premium özelliğidir.**\nDaha fazla bilgi için aşağıdaki düğmeye tıklayın:",
-
-  // Active Notifications
-  "settings_main_active_notifications_1": "Aktif Bildirimler",
-
-  // You are currently receiving notifications for {list} {dash} Click the blue buttons below to change settings.
-  "settings_main_active_notifications_2": "Şu anda {list} {dash} için bildirimler alıyorsunuz Ayarları değiştirmek için aşağıdaki mavi düğmeleri tıklayın.",
+  // Your Active Notifications
+  "settings_main_active_notifications": "",
 
   // Click to add a news source
   "settings_main_add_first_source_placeholder": "Haber kaynakları eklemek için tıklayın",
+
+  // Add Notifications
+  "settings_main_add_notifications": "",
 
   // You are subscribed to everything!
   "settings_main_add_sources_empty_1": "Her şeye abone oldunuz!",
@@ -1046,32 +1175,14 @@
   // Notification Settings
   "settings_main_btn_notifications": "Bildirim Ayarları",
 
-  // Change role mention
-  "settings_main_btn_role_change": "Rol bahsetmesini değiştir",
-
-  // Mention a role
-  "settings_main_btn_role_set": "Bir rol etiketle",
-
-  // Need help?
-  "settings_main_help_1": "Yardıma mı ihtiyacınız var?",
-
-  // Read the guide
-  "settings_main_help_solution_guide_1": "Rehberi okuyun",
-
-  // We have website prepared to walk you through the entire setup and explain everything along the way. Please check it out if you're lost!
-  "settings_main_help_solution_guide_2": "Tüm kurulum boyunca size yol gösterecek ve yol boyunca her şeyi açıklayacak şekilde hazırlanmış bir web sitemiz var. Kaybolursanız lütfen bakın!",
-
-  // Join our support server
-  "settings_main_help_solution_server_1": "Destek sunucumuza katılın",
-
-  // The guide didn't help you? We have a support server to help you out and answer all your questions. Feel free to hop in!
-  "settings_main_help_solution_server_2": "Rehber sana yardımcı olmadı mı? Size yardımcı olacak ve tüm sorularınızı yanıtlayacak bir destek sunucumuz var. İçeri girmekten çekinmeyin!",
-
   // Tl;dr
   "settings_main_help_solution_tldr_1": "Özet",
 
   // 1. Click on `{text}` above\n2. Select a source, can be any you want. Those with {premium} require FreeStuff Premium, **all others don't**\n3. On the page that opens select a channel for the bot to post in\n4. Done!
   "settings_main_help_solution_tldr_2": "1. Yukarıdaki `{text}` seçeneğini tıklayın\n2. Bir kaynak seçin, istediğiniz herhangi biri olabilir. {premium} sahibi olanlar FreeStuff Premium'a ihtiyaç duyar, **diğerlerinin ihtiyacı yoktur**\n3. Açılan sayfada botun gönderi paylaşacağı kanalı seçin\n4. Bitti!",
+
+  // You can edit your notification settings by clicking the buttons above.
+  "settings_main_notifications_edit_hint": "",
 
   // Suggested for you
   "settings_main_suggested_categories_1": "Sizin için önerildi",
@@ -1271,8 +1382,17 @@
   // {user} used {command}
   "slash_command_source": "{user} adlı kullanıcı {command} komutunu kullandı",
 
+  // Sign up to get a notification for when usually paid assets receive a temporary 100% discount. This means you can get them for free and keep them forever.\nYou can filter by type, compatibility, store and more.
+  "subscription_assets_description": "",
+
+  // 3d Models, Textures, Sounds and more
+  "subscription_assets_hint": "",
+
   // Gamedev Assets
   "subscription_assets_name": "Oyun Geliştirici Assetleri",
+
+  // Are you a game developer or want to become one? With {name} you get a notification when paid game assets go free for a limited time! Get 3D models, textures, sounds and more!
+  "subscription_assets_promo": "",
 
   // Uhhhh uhmmm uhhh uhhhhhhhhmmmuhhhhhh yeahhh uhhhhh no.
   "subscription_debug_promo": "Uhhhh uhmmm uhhh uhhhhhhhhhmmmuhhhhhh evethh uhhhhhh hayır.",
@@ -1448,33 +1568,6 @@
   // Message in thread
   "thread_opt_c_name": "Alt başlık içindeki mesaj",
 
-  // English translation available! If you want me to use English, use`/settings`
-  "translation_available": "Türkçe çeviri mevcut! Eğer botu Türkçe  dilinde kullanmak istiyorsanız, `/settings` komutunu kullanın",
-
-  // English is not your primary language? This bot has many translations available, use `/settings` for more info.
-  "translation_available_generic": "",
-
-  // English translation by:
-  "translation_by": "Türkçe Tercümanlar:",
-
-  // Maanex
-  "translators": "Bae#1000, erensi, Arcdashckr, mahirsn, bydexter",
-
   // FreeStuff is using Webhooks to distribute announcements on a large scale. Please do not remove this webhook.
-  "webhook_create_auditlog_reason": "FreeStuff, duyuruları büyük ölçekte yayınlamak için Webhook'ları kullanıyor. Lütfen bu webhook'u kaldırmayın.",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_missing_permissions_1": "Oopsie daisy!",
-
-  // Looks like I'm missing \"Manage Webhooks\" permissions. Please grant me those and then try again!
-  "webhook_migration_failed_missing_permissions_2": "Görünüşe göre \"Webhook'ları Yönet\" iznine sahip değilim. Lütfen bana bu izni verin ve tekrar deneyin!",
-
-  // Oopsie daisy!
-  "webhook_migration_failed_too_many_hooks_1": "Oopsie daisy!",
-
-  // Looks like you have a few Webhooks for this channel already. Unfortunately there is a limit of 10 Webhooks per channel, so please delete one of them for FreeStuff to create a new one.
-  "webhook_migration_failed_too_many_hooks_2": "Görünüşe göre bu kanalda zaten birkaç Webhook var. Maalesef ki kanal başına 10 Webhook sınırı vardır, bu yüzden FreeStuff'ın yeni bir tane oluşturması için bunlardan birini silin.",
-
-  // FreeStuff is missing permissions to **Manage Webhooks** in this channel. Server admins please grant this permission or run **/settings** for more info. Otherwise the bot will stop sending you news soon.
-  "webhook_migration_notice": "FreeStuff'ın bu kanalda **Webhook'ları Yönet** izni yok. Sunucu yetkilileri, lütfen bota bu izni verin ve daha fazla bilgi için **/settings** komutunu kullanın. Aksi takdirde bot yakın zamanda size haber göndermeyi durduracak."
+  "webhook_create_auditlog_reason": "FreeStuff, duyuruları büyük ölçekte yayınlamak için Webhook'ları kullanıyor. Lütfen bu webhook'u kaldırmayın."
 }

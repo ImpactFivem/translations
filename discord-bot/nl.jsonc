@@ -30,7 +30,7 @@
   "announcement_price_assets": "",
 
   // {prices} until {date}
-  "announcement_price_assets_until": "",
+  "announcement_price_assets_until": "tot",
 
   // Claim for **Free**
   "announcement_price_gamepass": "",
